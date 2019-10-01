@@ -22,7 +22,7 @@
 </thead>
 <tbody>
 <tr><td><strong>M1</strong></td>
-  <td id="D1M1"></td>
+  <td id="D1M1">Holiday</td>
   <td id="D2M1"></td>
   <td id="D3M1"></td>
   <td id="D4M1"></td>
@@ -30,7 +30,7 @@
   </tr>
   
   <tr><td><strong>M2</strong></td>
-  <td id="D1M2"></td>
+  <td id="D1M2">Holiday</td>
   <td id="D2M2"></td>
   <td id="D3M2"></td>
   <td id="D4M2"></td>
@@ -38,7 +38,7 @@
   </tr>
   
   <tr><td><strong>M3</strong></td>
-  <td id="D1M3"></td>
+  <td id="D1M3">Holiday</td>
   <td id="D2M3"></td>
   <td id="D3M3"></td>
   <td id="D4M3"></td>
@@ -46,7 +46,7 @@
   </tr>
   
   <tr><td><strong>M4</strong></td>
-  <td id="D1M4"></td>
+  <td id="D1M4">Holiday</td>
   <td id="D2M4"></td>
   <td id="D3M4"></td>
   <td id="D4M4"></td>
@@ -54,7 +54,7 @@
   </tr>
   
   <tr><td><strong>Homework</strong></td>
-  <td id="D1HW"></td>
+  <td id="D1HW">Holiday</td>
   <td id="D2HW"></td>
   <td id="D3HW"></td>
   <td id="D4HW"></td>
@@ -187,33 +187,33 @@
 </thead>
 <tbody>
 <tr><td><strong>M1</strong></td>
-  <td id="D1M1"></td>
-  <td id="D2M1"></td>
-  <td id="D3M1"></td>
+  <td id="D1M1">Holiday 🎉</td>
+  <td id="D2M1">Holiday 🎉</td>
+  <td id="D3M1">Holiday 🎉</td>
   <td id="D4M1"></td>
   <td id="D5M1"></td>
   </tr>
   
   <tr><td><strong>M2</strong></td>
-  <td id="D1M2"></td>
-  <td id="D2M2"></td>
-  <td id="D3M2"></td>
+  <td id="D1M2">Holiday 🎉</td>
+  <td id="D2M2">Holiday 🎉</td>
+  <td id="D3M2">Holiday 🎉</td>
   <td id="D4M2"></td>
   <td id="D5M2"></td>
   </tr>
   
   <tr><td><strong>M3</strong></td>
-  <td id="D1M3"></td>
-  <td id="D2M3"></td>
-  <td id="D3M3"></td>
+  <td id="D1M3">Holiday 🎉</td>
+  <td id="D2M3">Holiday 🎉</td>
+  <td id="D3M3">Holiday 🎉</td>
   <td id="D4M3"></td>
   <td id="D5M3"></td>
   </tr>
   
   <tr><td><strong>M4</strong></td>
-  <td id="D1M4"></td>
-  <td id="D2M4"></td>
-  <td id="D3M4"></td>
+  <td id="D1M4">Holiday 🎉</td>
+  <td id="D2M4">Holiday 🎉</td>
+  <td id="D3M4">Holiday 🎉</td>
   <td id="D4M4"></td>
   <td id="D5M4"></td>
   </tr>
@@ -409,41 +409,41 @@
 <tr><td><strong>M1</strong></td>
   <td id="D1M1"></td>
   <td id="D2M1"></td>
-  <td id="D3M1"></td>
-  <td id="D4M1"></td>
-  <td id="D5M1"></td>
+  <td id="D3M1">Holiday 🦃</td>
+  <td id="D4M1">Holiday 🦃</td>
+  <td id="D5M1">Holiday 🦃</td>
   </tr>
   
   <tr><td><strong>M2</strong></td>
   <td id="D1M2"></td>
   <td id="D2M2"></td>
-  <td id="D3M2"></td>
-  <td id="D4M2"></td>
-  <td id="D5M2"></td>
+  <td id="D3M2">Holiday 🦃</td>
+  <td id="D4M2">Holiday 🦃</td>
+  <td id="D5M2">Holiday 🦃</td>
   </tr>
   
   <tr><td><strong>M3</strong></td>
   <td id="D1M3"></td>
   <td id="D2M3"></td>
-  <td id="D3M3"></td>
-  <td id="D4M3"></td>
-  <td id="D5M3"></td>
+  <td id="D3M3">Holiday 🦃</td>
+  <td id="D4M3">Holiday 🦃</td>
+  <td id="D5M3">Holiday 🦃</td>
   </tr>
   
   <tr><td><strong>M4</strong></td>
   <td id="D1M4"></td>
   <td id="D2M4"></td>
-  <td id="D3M4"></td>
-  <td id="D4M4"></td>
-  <td id="D5M4"></td>
+  <td id="D3M4">Holiday 🦃</td>
+  <td id="D4M4">Holiday 🦃</td>
+  <td id="D5M4">Holiday 🦃</td>
   </tr>
   
   <tr><td><strong>Homework</strong></td>
   <td id="D1HW"></td>
   <td id="D2HW"></td>
-  <td id="D3HW"></td>
-  <td id="D4HW"></td>
-  <td id="D5HW"></td>
+  <td id="D3HW">Holiday 🦃</td>
+  <td id="D4HW">Holiday 🦃</td>
+  <td id="D5HW">Holiday 🦃</td>
   </tr></tbody></table>
 
 
