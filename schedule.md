@@ -226,7 +226,9 @@
   <td id="D5HW"></td>
   </tr></tbody></table>
 
-<strong>Big Holiday Break Here: Dec. 21 - Jan. 1</strong>
+<hr />
+<h2>Big Holiday Break Here: Dec. 21 - Jan. 1</h2>
+<hr />
 
 ## Week 10
 **Dates:** Dec. 16 - 20
