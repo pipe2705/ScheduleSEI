@@ -528,7 +528,6 @@
 
 
 
--->
 ## Week 4
 Unit 2
 **Dates:** Nov. 4 - 8
@@ -576,8 +575,14 @@ Unit 2
   </tr></tbody></table>
 
 
+-->
+# Unit 1
+<!-- TODO :: Add in deliverable schedule here  -->
+
 ## Week 3
-<p>Unit 1</p>
+
+Unit 1
+
 **Dates:** Oct. 28 - Nov. 1
 <table>
 <thead>
@@ -708,4 +713,3 @@ Unit 2
   <td id="D5L">Loop Lab / Weekend Reps</td>
   </tr></tbody></table>
 
-<!-- TODO :: Add in deliverable schedule here  -->
