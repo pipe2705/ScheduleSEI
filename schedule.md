@@ -530,6 +530,7 @@
 
 ## Week 4
 Unit 2
+
 **Dates:** Nov. 4 - 8
 <table>
 <thead>
@@ -580,7 +581,6 @@ Unit 2
 <!-- TODO :: Add in deliverable schedule here  -->
 
 ## Week 3
-
 Unit 1
 
 **Dates:** Oct. 28 - Nov. 1
@@ -630,7 +630,8 @@ Unit 1
 
 
 ## Week 2
-<p>Unit 1</p>
+Unit 1
+
 **Dates:** Oct. 21 - 25
 <table>
 <thead>
@@ -678,7 +679,8 @@ Unit 1
 
 
 ## Week 1
-<p>Unit 1</p>
+Unit 1
+
 **Dates:** Oct. 16 - 18 
 <table>
 <thead>
