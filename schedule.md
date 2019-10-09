@@ -715,3 +715,26 @@ Unit 1
   <td id="D5L">Loop Lab / Weekend Reps</td>
   </tr></tbody></table>
 
+## Unit 1 - Deliverables
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<table>
+  <thead>
+    <tr>
+      <td>Date Assigned</td>
+      <td>Deliverable</td>
+      <td>Final Due Date</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
