@@ -579,6 +579,7 @@ Unit 2
 -->
 
 # Unit 1
+<p>Welcome to SEI! In this first unit we'll be focusing our efforts on learning (and doing) Frontend Development fundamentals (think <strong>HTML</strong>and <strong>CSS</strong>) and a programming language we'll spend hundreds of hours working with over the following weeks: <strong>Javascript</strong></p>
 ## Week 3
 > **Dates:** Oct. 28 - Nov. 1
 <table>
