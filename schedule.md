@@ -577,13 +577,10 @@ Unit 2
 
 
 -->
+
 # Unit 1
-<!-- TODO :: Add in deliverable schedule here  -->
-
 ## Week 3
-Unit 1
-
-**Dates:** Oct. 28 - Nov. 1
+> **Dates:** Oct. 28 - Nov. 1
 <table>
 <thead>
 <tr><td></td>
@@ -630,9 +627,7 @@ Unit 1
 
 
 ## Week 2
-Unit 1
-
-**Dates:** Oct. 21 - 25
+> **Dates:** Oct. 21 - 25
 <table>
 <thead>
 <tr><td></td>
@@ -679,9 +674,7 @@ Unit 1
 
 
 ## Week 1
-Unit 1
-
-**Dates:** Oct. 16 - 18 
+> **Dates:** Oct. 16 - 18 
 <table>
 <thead>
 <tr><td></td>
