@@ -662,11 +662,11 @@ Unit 2
 -->
 
 
-# Unit 1
+## Unit 1
 <p>Welcome to SEI! In the first unit we'll be focusing our efforts on learning the fundamentals of developing in a Linux environment. Expect to get to know your development environment and to get some more practice with <strong>HTML</strong>, <strong>CSS</strong>, and the language we'll spend the most time with over the following weeks: <strong>Javascript</strong>.</p>
 
 
-## Week 1
+### Week 1
 > **Dates:** Oct. 16 - 18 
 <table>
 <thead>
@@ -702,7 +702,7 @@ Unit 2
   </tr></tbody></table>
 
 
-## Unit 1 - Deliverables
+### Unit 1 - Deliverables
 <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
 <table>
   <thead>
