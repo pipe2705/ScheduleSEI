@@ -1,3 +1,6 @@
+<h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;" /> SEI 5</h1>
+
+<!--
 #### Important Links
 
 - <a href="https://git.generalassemb.ly/SEI-SF/SEI-SF-6">Class Repo</a>
@@ -5,7 +8,6 @@
 - <a href="">One on One Sheet (broken)</a>
 
 
-<!--
 ## Week 14
 **Dates:** Jan. 20 - 24
 <table>
