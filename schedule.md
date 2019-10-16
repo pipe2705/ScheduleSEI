@@ -1,4 +1,4 @@
-<h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;" /> SEI 5</h1>
+<h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;"></a> SEI-6 Schedule</h1>
 
 <!--
 #### Important Links
@@ -725,7 +725,8 @@ Unit 2
     </tr>
   </tbody>
 </table>
-<h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;"></a> SEI-SF-6 Schedule</h1>
+
+<hr>
 
 ### Instructional Team
 
