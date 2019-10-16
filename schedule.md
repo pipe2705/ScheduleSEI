@@ -1,3 +1,149 @@
+## Week 3
+> **Dates:** Oct. 28 - Nov. 1
+<table>
+<thead>
+<tr><td></td>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><strong>Morning Exercise</strong></td>
+  <td id="D1ME">Todo Lab Review</td>
+  <td id="D2ME">Project 0</td>
+  <td id="D3ME">Project 0</td>
+  <td id="D4ME">Project 0</td>
+  <td id="D5ME">Project 0</td>
+  </tr>
+  
+  <tr><td><strong>Module 1</strong></td>
+  <td id="D1M1">Project 0 Intro / Planning</td>
+  <td id="D2M1">Project 0</td>
+  <td id="D3M1">Project 0</td>
+  <td id="D4M1">Project 0</td>
+  <td id="D5M1">Project 0</td>
+  </tr>
+  
+  <tr><td><strong>Module 2</strong></td>
+  <td id="D1M2">Project Approval</td>
+  <td id="D2M2">Project 0</td>
+  <td id="D3M2">Project 0</td>
+  <td id="D4M2">Project 0</td>
+  <td id="D5M2">Project 0</td>
+  </tr></tbody></table>
+
+## Week 2
+> **Dates:** Oct. 21 - 25
+<table>
+<thead>
+<tr><td></td>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><strong>Morning Exercise</strong></td>
+  <td id="D1ME">Functions & Scope</td>
+  <td id="D2ME">CSS Layout: Flexbox & Grid</td>
+  <td id="D3ME">Responsive Design</td>
+  <td id="D4ME">Callback Functions</td>
+  <td id="D5ME">Intro to jQuery</td>
+  </tr>
+  
+  <tr><td><strong>Module 1</strong></td>
+  <td id="D1M1">Objects / Objects Lab</td>
+  <td id="D2M1">OOP & Classes</td>
+  <td id="D3M1">OOP Pokemon</td>
+  <td id="D4M1">Intro to the DOM / DOM Events</td>
+  <td id="D5M1">Array Iterator Methods / Practice</td>
+  </tr>
+  
+  <tr><td><strong>Module 2</strong></td>
+  <td id="D1M2">`this` / Solar System Lab</td>
+  <td id="D2M2">Classes Lab</td>
+  <td id="D3M2">OOP Pokemon</td>
+  <td id="D4M2">Tic Tac Toe Lab</td>
+  <td id="D5M2">JS Todos Lab / Unit 1 Assessment</td>
+  </tr>
+  
+  <tr><td><strong>Extra Reps</strong></td>
+  <td id="D1L"></td>
+  <td id="D2L"></td>
+  <td id="D3L"></td>
+  <td id="D4L"></td>
+  <td id="D5L"></td>
+  </tr></tbody></table>
+
+
+-->
+
+# Unit 1
+<p>Welcome to SEI! In the first unit we'll be focusing our efforts on learning the fundamentals of developing in a Linux environment. Expect to get to know your development environment and to get some more practice with <strong>HTML</strong>, <strong>CSS</strong>, and the language we'll spend the most time with over the following weeks: <strong>Javascript</strong>.</p>
+
+## Week 1
+> **Dates:** Oct. 16 - 18 
+<table>
+<thead>
+<tr><td></td>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><strong>Morning Exercise</strong></td>
+  <td id="D3ME">Orientation</td>
+  <td id="D4ME">Intro to Programming</td>
+  <td id="D5ME">Loops & Conditionals</td>
+  </tr>
+  
+  <tr><td><strong>Module 1</strong></td>
+  <td id="D3M1">Welcome to GA / Installfest</td>
+  <td id="D4M1">Github / Github Lab</td>
+  <td id="D5M1">Arrays & Iteration</td>
+  </tr>
+  
+  <tr><td><strong>Module 2</strong></td>
+  <td id="D3M2">Terminal / Terminal Lab</td>
+  <td id="D4M2">HTML && CSS Review</td>
+  <td id="D5M2">Review / Loop Lab / Iterator Lab</td>
+  </tr>
+  
+  <tr><td><strong>Extra Reps</strong></td>
+  <td id="D3L">Terminal Practice</td>
+  <td id="D4L">Github Lab</td>
+  <td id="D5L">Weekend Reps</td>
+  </tr></tbody></table>
+
+## Unit 1 - Deliverables
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<table>
+  <thead>
+    <tr>
+      <td>Date Assigned</td>
+      <td>Deliverable</td>
+      <td>Final Due Date</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 <h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;"></a> SEI-SF-6 Schedule</h1>
 
 #### Important Links
@@ -577,149 +723,3 @@ Unit 2
 
 
     
-# Unit 1
-<p>Welcome to SEI! In this first unit we'll be focusing our efforts on learning (and doing) Frontend Development fundamentals (think <strong>HTML</strong>and <strong>CSS</strong>) and a programming language we'll spend hundreds of hours working with over the following weeks: <strong>Javascript</strong></p>
-## Week 3
-> **Dates:** Oct. 28 - Nov. 1
-<table>
-<thead>
-<tr><td></td>
-<th>Monday</th>
-<th>Tuesday</th>
-<th>Wednesday</th>
-<th>Thursday</th>
-<th>Friday</th>
-</tr>
-</thead>
-<tbody>
-<tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1ME">Todo Lab Review</td>
-  <td id="D2ME">Project 0</td>
-  <td id="D3ME">Project 0</td>
-  <td id="D4ME">Project 0</td>
-  <td id="D5ME">Project 0</td>
-  </tr>
-  
-  <tr><td><strong>Module 1</strong></td>
-  <td id="D1M1">Project 0 Intro / Planning</td>
-  <td id="D2M1">Project 0</td>
-  <td id="D3M1">Project 0</td>
-  <td id="D4M1">Project 0</td>
-  <td id="D5M1">Project 0</td>
-  </tr>
-  
-  <tr><td><strong>Module 2</strong></td>
-  <td id="D1M2">Project Approval</td>
-  <td id="D2M2">Project 0</td>
-  <td id="D3M2">Project 0</td>
-  <td id="D4M2">Project 0</td>
-  <td id="D5M2">Project 0</td>
-  </tr></tbody></table>
-
-## Week 2
-> **Dates:** Oct. 21 - 25
-<table>
-<thead>
-<tr><td></td>
-<th>Monday</th>
-<th>Tuesday</th>
-<th>Wednesday</th>
-<th>Thursday</th>
-<th>Friday</th>
-</tr>
-</thead>
-<tbody>
-<tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1ME">Functions & Scope</td>
-  <td id="D2ME">CSS Layout: Flexbox & Grid</td>
-  <td id="D3ME">Responsive Design</td>
-  <td id="D4ME">Callback Functions</td>
-  <td id="D5ME">Intro to jQuery</td>
-  </tr>
-  
-  <tr><td><strong>Module 1</strong></td>
-  <td id="D1M1">Objects / Objects Lab</td>
-  <td id="D2M1">OOP & Classes</td>
-  <td id="D3M1">OOP Pokemon</td>
-  <td id="D4M1">Intro to the DOM / DOM Events</td>
-  <td id="D5M1">Array Iterator Methods / Practice</td>
-  </tr>
-  
-  <tr><td><strong>Module 2</strong></td>
-  <td id="D1M2">`this` / Solar System Lab</td>
-  <td id="D2M2">Classes Lab</td>
-  <td id="D3M2">OOP Pokemon</td>
-  <td id="D4M2">Tic Tac Toe Lab</td>
-  <td id="D5M2">JS Todos Lab / Unit 1 Assessment</td>
-  </tr>
-  
-  <tr><td><strong>Extra Reps</strong></td>
-  <td id="D1L"></td>
-  <td id="D2L"></td>
-  <td id="D3L"></td>
-  <td id="D4L"></td>
-  <td id="D5L"></td>
-  </tr></tbody></table>
-
-
--->
-
-
-## Week 1
-> **Dates:** Oct. 16 - 18 
-<table>
-<thead>
-<tr><td></td>
-<th>Wednesday</th>
-<th>Thursday</th>
-<th>Friday</th>
-</tr>
-</thead>
-<tbody>
-<tr><td><strong>Morning Exercise</strong></td>
-  <td id="D3ME">Orientation</td>
-  <td id="D4ME">Intro to Programming</td>
-  <td id="D5ME">Loops & Conditionals</td>
-  </tr>
-  
-  <tr><td><strong>Module 1</strong></td>
-  <td id="D3M1">Welcome to GA / Installfest</td>
-  <td id="D4M1">Github / Github Lab</td>
-  <td id="D5M1">Arrays & Iteration</td>
-  </tr>
-  
-  <tr><td><strong>Module 2</strong></td>
-  <td id="D3M2">Terminal / Terminal Lab</td>
-  <td id="D4M2">HTML && CSS Review</td>
-  <td id="D5M2">Review / Loop Lab / Iterator Lab</td>
-  </tr>
-  
-  <tr><td><strong>Extra Reps</strong></td>
-  <td id="D3L">Terminal Practice</td>
-  <td id="D4L">Github Lab</td>
-  <td id="D5L">Weekend Reps</td>
-  </tr></tbody></table>
-
-## Unit 1 - Deliverables
-<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
-<table>
-  <thead>
-    <tr>
-      <td>Date Assigned</td>
-      <td>Deliverable</td>
-      <td>Final Due Date</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
