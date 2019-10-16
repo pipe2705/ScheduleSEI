@@ -679,26 +679,26 @@ Unit 2
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
   <td id="D3ME">Orientation</td>
-  <td id="D4ME">Intro to Programming</td>
-  <td id="D5ME">Loops & Conditionals</td>
+  <td id="D4ME"></td>
+  <td id="D5ME"></td>
   </tr>
   
   <tr><td><strong>Module 1</strong></td>
-  <td id="D3M1">Welcome to GA / Installfest</td>
-  <td id="D4M1">Github / Github Lab</td>
-  <td id="D5M1">Arrays & Iteration</td>
+  <td id="D3M1">Welcome to GA / Icebreakers</td>
+  <td id="D4M1"></td>
+  <td id="D5M1"></td>
   </tr>
   
   <tr><td><strong>Module 2</strong></td>
-  <td id="D3M2">Terminal / Terminal Lab</td>
-  <td id="D4M2">HTML && CSS Review</td>
-  <td id="D5M2">Review / Loop Lab / Iterator Lab</td>
+  <td id="D3M2">CLI: Files & Folders / UNIX & Kernals / Trees</td>
+  <td id="D4M2"></td>
+  <td id="D5M2"></td>
   </tr>
   
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D3L">Terminal Practice</td>
-  <td id="D4L">Github Lab</td>
-  <td id="D5L">Weekend Reps</td>
+  <td id="D4L"></td>
+  <td id="D5L"></td>
   </tr></tbody></table>
 
 
@@ -726,7 +726,8 @@ Unit 2
   </tbody>
 </table>
 
-<hr>
+
+## Course Information
 
 ### Instructional Team
 
@@ -736,12 +737,14 @@ Unit 2
 | Co-Instructor | Brock Whitbread-Cole | @brock | brock.whitbread@generalassemb.ly 
 | Instructor Associate | Michael Petty | @Michael Petty | michael.petty@generalassemb.ly |
 
-### Course Information
+### Important Dates
 
-- Course duration: Monday, April 22nd, 2019 - Wednesday, July 17th, 2019 (12 weeks, plus three-day extension due to holidays)
-- Holiday:
-	- May 27th, 2019 (Memorial Day)
-	- July 4th & 5th, 2019 (July Fourth Holiday)
+- Course duration: Wednesday, October 16th, 2019 - Friday, January 24th, 2020
+- Holidays:
+	- November 11th, 2019 (Veteran's Day)
+	- November 27th, 28th & 29th, 2019 (Thanksgiving)
+	- December 21st - January 1st (Winter Holiday)
+	- January 20th (Martin Luther King Jr. Day)
 
 ### GA SEI Graduation Requirements
 
