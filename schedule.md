@@ -690,13 +690,13 @@ Unit 2
   </tr>
   
   <tr><td><strong>Module 2</strong></td>
-  <td id="D3M2">CLI: Files & Folders / UNIX & Kernels / Trees</td>
+  <td id="D3M2"><A href="https://git.generalassemb.ly/SEI-SF/os-navigation-terminal">CLI: Files & Folders</a> / Trees</td>
   <td id="D4M2"></td>
   <td id="D5M2"></td>
   </tr>
   
   <tr><td><strong>Extra Reps</strong></td>
-  <td id="D3L">Terminal Practice</td>
+  <td id="D3L"><a href="https://git.generalassemb.ly/SEI-SF/hw-unix-cli-practice">Terminal Practice</a></td>
   <td id="D4L"></td>
   <td id="D5L"></td>
   </tr></tbody></table>
