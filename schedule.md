@@ -528,7 +528,7 @@
 
 
 
-## Week 4
+    ## Week 4
 Unit 2
 
 **Dates:** Nov. 4 - 8
@@ -576,8 +576,7 @@ Unit 2
   </tr></tbody></table>
 
 
--->
-
+    
 # Unit 1
 <p>Welcome to SEI! In this first unit we'll be focusing our efforts on learning (and doing) Frontend Development fundamentals (think <strong>HTML</strong>and <strong>CSS</strong>) and a programming language we'll spend hundreds of hours working with over the following weeks: <strong>Javascript</strong></p>
 ## Week 3
@@ -615,17 +614,7 @@ Unit 2
   <td id="D3M2">Project 0</td>
   <td id="D4M2">Project 0</td>
   <td id="D5M2">Project 0</td>
-  </tr>
-  
-  <tr><td><strong>Labs</strong></td>
-  <td id="D1L">Project 0</td>
-  <td id="D2L">Project 0</td>
-  <td id="D3L">Project 0</td>
-  <td id="D4L">Project 0</td>
-  <td id="D5L">Project 0</td>
   </tr></tbody></table>
-
-
 
 ## Week 2
 > **Dates:** Oct. 21 - 25
@@ -664,14 +653,16 @@ Unit 2
   <td id="D5M2">JS Todos Lab / Unit 1 Assessment</td>
   </tr>
   
-  <tr><td><strong>Labs</strong></td>
-  <td id="D1L">{ get labs from baseline }</td>
-  <td id="D2L">{ get labs from baseline }</td>
-  <td id="D3L">{ get labs from baseline }</td>
-  <td id="D4L">{ get labs from baseline }</td>
-  <td id="D5L">{ get labs from baseline }</td>
+  <tr><td><strong>Extra Reps</strong></td>
+  <td id="D1L"></td>
+  <td id="D2L"></td>
+  <td id="D3L"></td>
+  <td id="D4L"></td>
+  <td id="D5L"></td>
   </tr></tbody></table>
 
+
+-->
 
 
 ## Week 1
@@ -700,13 +691,13 @@ Unit 2
   <tr><td><strong>Module 2</strong></td>
   <td id="D3M2">Terminal / Terminal Lab</td>
   <td id="D4M2">HTML && CSS Review</td>
-  <td id="D5M2">Review</td>
+  <td id="D5M2">Review / Loop Lab / Iterator Lab</td>
   </tr>
   
-  <tr><td><strong>Labs</strong></td>
+  <tr><td><strong>Extra Reps</strong></td>
   <td id="D3L">Terminal Practice</td>
   <td id="D4L">Github Lab</td>
-  <td id="D5L">Loop Lab / Weekend Reps</td>
+  <td id="D5L">Weekend Reps</td>
   </tr></tbody></table>
 
 ## Unit 1 - Deliverables
