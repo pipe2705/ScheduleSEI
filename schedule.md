@@ -727,3 +727,36 @@ Unit 2
 </table>
 <h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;"></a> SEI-SF-6 Schedule</h1>
 
+### Instructional Team
+
+|Role        | Name            | Slack       | Email |
+|:--         | :--             | :--         | :-- |
+| Co-Instructor | Tyler Lane | @tylerlanecodes  | tyler.lane@generalassemb.ly |
+| Co-Instructor | Brock Whitbread-Cole | @brock | brock.whitbread@generalassemb.ly 
+| Instructor Associate | Michael Petty | @Michael Petty | michael.petty@generalassemb.ly |
+
+### Course Information
+
+- Course duration: Monday, April 22nd, 2019 - Wednesday, July 17th, 2019 (12 weeks, plus three-day extension due to holidays)
+- Holiday:
+	- May 27th, 2019 (Memorial Day)
+	- July 4th & 5th, 2019 (July Fourth Holiday)
+
+### GA SEI Graduation Requirements
+
+General Assembly's courses are pass/fail programs. We have certain requirements in order to be considered a graduate of the SEI program:
+
+- No more than 3 days absent from class over the duration of the course (3 tardies equals 1 absence)
+- Successful completion of four assigned projects
+- Successful completion of 3 of 4 project assessment challenges
+- Participating in GA’s mid-course and end-of-course feedback surveys
+- Complete 80% of assigned "deliverables"
+
+When you complete our program with passing status, you unlock our alumni perks:
+
+- Support from the Outcomes Team, including participation in the Meet & Greet event (with prospective employers).
+- Receive a GA Letter of Completion (via email 1 week after graduation)
+- Credits and discounts for other GA courses (check with Student Services for details).
+- Access to our Alumni Community
+
+**Questions? Just ask!**
