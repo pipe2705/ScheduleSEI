@@ -544,36 +544,28 @@ Unit 2
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1ME">Project 1 Presentations</td>
-  <td id="D2ME"></td>
-  <td id="D3ME"></td>
-  <td id="D4ME"></td>
-  <td id="D5ME"></td>
+  <td id="D1ME">Project 1 Intro</td>
+  <td id="D2ME">Project 1</td>
+  <td id="D3ME">Project 1</td>
+  <td id="D4ME">Project 1</td>
+  <td id="D5ME">Project 1</td>
   </tr>
   
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M1">Project 1 Presentations</td>
-  <td id="D2M1"></td>
-  <td id="D3M1"></td>
-  <td id="D4M1"></td>
-  <td id="D5M1"></td>
+  <td id="D1M1">Project 1</td>
+  <td id="D2M1">Project 1</td>
+  <td id="D3M1">Project 1</td>
+  <td id="D4M1">Project 1</td>
+  <td id="D5M1">Project 1</td>
   </tr>
   
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M2"></td>
-  <td id="D2M2"></td>
-  <td id="D3M2"></td>
-  <td id="D4M2"></td>
-  <td id="D5M2"></td>
+  <td id="D1M2">Project 1</td>
+  <td id="D2M2">Project 1</td>
+  <td id="D3M2">Project 1</td>
+  <td id="D4M2">Project 1</td>
+  <td id="D5M2">Project 1</td>
   </tr>
-  
-  <tr><td><strong>Labs</strong></td>
-  <td id="D1L"></td>
-  <td id="D2L"></td>
-  <td id="D3L"></td>
-  <td id="D4L"></td>
-  <td id="D5L"></td>
-  </tr></tbody></table>
 
 
 
@@ -591,27 +583,35 @@ Unit 2
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1ME">Todo Lab Review</td>
-  <td id="D2ME">Project 0</td>
-  <td id="D3ME">Project 0</td>
-  <td id="D4ME">Project 0</td>
-  <td id="D5ME">Project 0</td>
+  <td id="D1ME"></td>
+  <td id="D2ME"></td>
+  <td id="D3ME"></td>
+  <td id="D4ME"></td>
+  <td id="D5ME"></td>
   </tr>
   
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M1">Project 0 Intro / Planning</td>
-  <td id="D2M1">Project 0</td>
-  <td id="D3M1">Project 0</td>
-  <td id="D4M1">Project 0</td>
-  <td id="D5M1">Project 0</td>
+  <td id="D1M1">Object-Oriented Programming</td>
+  <td id="D2M1">Semantic HTML & CSS Selectors</td>
+  <td id="D3M1">Responsive Design, Flexbox, Grid</td>
+  <td id="D4M1">Vanilla JS: DOM Manipulations</td>
+  <td id="D5M1">Browser Events, JavaScript Event Queue</td>
   </tr>
   
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M2">Project Approval</td>
-  <td id="D2M2">Project 0</td>
-  <td id="D3M2">Project 0</td>
-  <td id="D4M2">Project 0</td>
-  <td id="D5M2">Project 0</td>
+  <td id="D1M2"></td>
+  <td id="D2M2"></td>
+  <td id="D3M2"></td>
+  <td id="D4M2"></td>
+  <td id="D5M2"></td>
+  </tr></tbody></table>
+
+  <tr><td><strong>Extra Reps</strong></td>
+  <td id="D1L"></td>
+  <td id="D2L"></td>
+  <td id="D3L"></td>
+  <td id="D4L"></td>
+  <td id="D5L"></td>
   </tr></tbody></table>
 
 ## Week 2
@@ -628,27 +628,27 @@ Unit 2
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1ME">Functions & Scope</td>
-  <td id="D2ME">CSS Layout: Flexbox & Grid</td>
-  <td id="D3ME">Responsive Design</td>
-  <td id="D4ME">Callback Functions</td>
-  <td id="D5ME">Intro to jQuery</td>
+  <td id="D1ME"></td>
+  <td id="D2ME"></td>
+  <td id="D3ME"></td>
+  <td id="D4ME"></td>
+  <td id="D5ME"></td>
   </tr>
   
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M1">Objects / Objects Lab</td>
-  <td id="D2M1">OOP & Classes</td>
-  <td id="D3M1">OOP Pokemon</td>
-  <td id="D4M1">Intro to the DOM / DOM Events</td>
-  <td id="D5M1">Array Iterator Methods / Practice</td>
+  <td id="D1M1">JavaScript: Data Types & Streams</td>
+  <td id="D2M1">Control Flow, Arrays & Iteration</td>
+  <td id="D3M1">Functions & Scope</td>
+  <td id="D4M1">Objects</td>
+  <td id="D5M1">Objects pt 2: Prototype & 'this'</td>
   </tr>
   
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M2">`this` / Solar System Lab</td>
-  <td id="D2M2">Classes Lab</td>
-  <td id="D3M2">OOP Pokemon</td>
-  <td id="D4M2">Tic Tac Toe Lab</td>
-  <td id="D5M2">JS Todos Lab / Unit 1 Assessment</td>
+  <td id="D1M2"></td>
+  <td id="D2M2"></td>
+  <td id="D3M2"></td>
+  <td id="D4M2"></td>
+  <td id="D5M2"></td>
   </tr>
   
   <tr><td><strong>Extra Reps</strong></td>
@@ -679,26 +679,26 @@ Unit 2
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
   <td id="D3ME">Orientation</td>
-  <td id="D4ME"></td>
-  <td id="D5ME"></td>
+  <td id="D4ME">SEI Schedules</td>
+  <td id="D5ME">{{ HOLD }}</td>
   </tr>
   
   <tr><td><strong>Module 1</strong></td>
   <td id="D3M1">Welcome to GA / Icebreakers</td>
-  <td id="D4M1"></td>
-  <td id="D5M1"></td>
+  <td id="D4M1">CLI: Processes & Permissions / Regex</td>
+  <td id="D5M1">CLI: Streams & Git</td>
   </tr>
   
   <tr><td><strong>Module 2</strong></td>
-  <td id="D3M2"><A href="https://git.generalassemb.ly/SEI-SF/os-navigation-terminal">CLI: Files & Folders</a> / Trees</td>
-  <td id="D4M2"></td>
-  <td id="D5M2"></td>
+  <td id="D3M2"><a href="https://git.generalassemb.ly/SEI-SF/os-navigation-terminal">CLI: Files & Folders</a> / Trees</td>
+  <td id="D4M2">{{ HOLD }}</td>
+  <td id="D5M2">Github / Github Lab</td>
   </tr>
   
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D3L"><a href="https://git.generalassemb.ly/SEI-SF/hw-unix-cli-practice">Terminal Practice</a></td>
-  <td id="D4L"></td>
-  <td id="D5L"></td>
+  <td id="D4L"><a href="https://regexcrossword.com/">Regex Crossword</a></td>
+  <td id="D5L"><a href="https://guides.github.com/">Read First Four Guides</a></td>
   </tr></tbody></table>
 
 
