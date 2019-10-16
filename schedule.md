@@ -690,7 +690,7 @@ Unit 2
   </tr>
   
   <tr><td><strong>Module 2</strong></td>
-  <td id="D3M2">CLI: Files & Folders / UNIX & Kernals / Trees</td>
+  <td id="D3M2">CLI: Files & Folders / UNIX & Kernels / Trees</td>
   <td id="D4M2"></td>
   <td id="D5M2"></td>
   </tr>
