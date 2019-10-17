@@ -680,25 +680,25 @@ Unit 2
 <tr><td><strong>Morning Exercise</strong></td>
   <td id="D3ME">Orientation</td>
   <td id="D4ME">SEI Schedules</td>
-  <td id="D5ME">{{ HOLD }}</td>
+  <td id="D5ME">IDEs & <pre>.bash_profile</pre></td>
   </tr>
   
   <tr><td><strong>Module 1</strong></td>
   <td id="D3M1">Welcome to GA / Icebreakers</td>
   <td id="D4M1">CLI: Processes & Permissions / Regex</td>
-  <td id="D5M1">CLI: Streams & Git</td>
+  <td id="D5M1">JavaScript: Data Types & Streams</td>
   </tr>
   
   <tr><td><strong>Module 2</strong></td>
   <td id="D3M2"><a href="https://git.generalassemb.ly/SEI-SF/os-navigation-terminal">CLI: Files & Folders</a> / Trees</td>
-  <td id="D4M2">{{ HOLD }}</td>
-  <td id="D5M2">Github / Github Lab</td>
+  <td id="D4M2">Github / Github Lab</td>
+  <td id="D5M2">Control Flow, Arrays, and Iteration / Loop Lab / Review</td>
   </tr>
   
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D3L"><a href="https://git.generalassemb.ly/SEI-SF/hw-unix-cli-practice">Terminal Practice</a></td>
-  <td id="D4L"><a href="https://regexcrossword.com/">Regex Crossword</a></td>
-  <td id="D5L"><a href="https://guides.github.com/">Read First Four Guides</a></td>
+  <td id="D4L"><a href="https://regexcrossword.com/">Regex Crossword</a> / <a href="https://guides.github.com/">Read First Four Guides</a></td>
+  <td id="D5L">Weekend Reps</td>
   </tr></tbody></table>
 
 
