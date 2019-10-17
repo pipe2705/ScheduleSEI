@@ -692,7 +692,7 @@ Unit 2
   <tr><td><strong>Module 2</strong></td>
   <td id="D3M2"><a href="https://git.generalassemb.ly/SEI-SF/os-navigation-terminal">CLI: Files & Folders</a> / Trees</td>
   <td id="D4M2"><a href="https://git.generalassemb.ly/SEI-SF/github">Github</a> / <a href="https://git.generalassemb.ly/SEI-SF/git-github-lab">Github Lab</a></td>
-  <td id="D5M2">Control Flow, Arrays, and Iteration / Loop Lab / Review</td>
+  <td id="D5M2"><a href="https://git.generalassemb.ly/SEI-SF/conditionals-and-loops">Control Flow, Arrays, and Iteration</a> / <a href="https://git.generalassemb.ly/SEI-SF/loop-lab">Loop Lab</a> / Review</td>
   </tr>
   
   <tr><td><strong>Extra Reps</strong></td>
