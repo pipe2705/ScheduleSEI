@@ -685,7 +685,7 @@ Unit 2
   
   <tr><td><strong>Module 1</strong></td>
   <td id="D3M1">Welcome to GA / Icebreakers</td>
-  <td id="D4M1">CLI: Processes & Permissions / Regex</td>
+  <td id="D4M1">CLI: Processes & Permissions / <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">Regex</a></td>
   <td id="D5M1">JavaScript: Data Types & Streams</td>
   </tr>
   
