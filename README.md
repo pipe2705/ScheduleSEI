@@ -679,8 +679,8 @@ Unit 2
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
   <td id="D3ME">Orientation</td>
-  <td id="D4ME">SEI Schedules</td>
-  <td id="D5ME">IDEs & .bash_profile</td>
+  <td id="D4ME">.bash_profile & Schedules</td>
+  <td id="D5ME">IDEs</td>
   </tr>
   
   <tr><td><strong>Module 1</strong></td>
