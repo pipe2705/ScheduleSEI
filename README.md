@@ -686,12 +686,12 @@ Unit 2
   <tr><td><strong>Module 1</strong></td>
   <td id="D3M1">Welcome to GA / Icebreakers</td>
   <td id="D4M1">CLI: Processes & Permissions</td>
-  <td id="D5M1">JavaScript: Data Types & Streams</td>
+  <td id="D5M1"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">JavaScript: Data Types & Streams</a></td>
   </tr>
   
   <tr><td><strong>Module 2</strong></td>
   <td id="D3M2"><a href="https://git.generalassemb.ly/SEI-SF/os-navigation-terminal">CLI: Files & Folders</a> / Trees</td>
-  <td id="D4M2"><a href="https://git.generalassemb.ly/SEI-SF/github">Github</a> / <a href="https://git.generalassemb.ly/SEI-SF/git-github-lab">Github Lab</a></td>
+  <td id="D4M2"><a href="https://git.generalassemb.ly/SEI-SF/github">GitHub</a> / <a href="https://git.generalassemb.ly/SEI-SF/git-github-lab">GitHub Lab</a></td>
   <td id="D5M2"><a href="https://git.generalassemb.ly/SEI-SF/conditionals-and-loops">Control Flow, Arrays, and Iteration</a> / <a href="https://git.generalassemb.ly/SEI-SF/loop-lab">Loop Lab</a> / Review</td>
   </tr>
   
