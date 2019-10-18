@@ -518,7 +518,7 @@
   <td id="D5M4"></td>
   </tr>
   
-  <tr><td><strong>Labs</strong></td>
+  <tr><td><strong>Extra Reps</strong></td>
   <td id="D1HW"></td>
   <td id="D2HW"></td>
   <td id="D3HW"></td>
@@ -544,29 +544,36 @@ Unit 2
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1ME">Project 1 Intro</td>
-  <td id="D2ME">Project 1</td>
-  <td id="D3ME">Project 1</td>
-  <td id="D4ME">Project 1</td>
-  <td id="D5ME">Project 1</td>
+  <td id="D1ME">Project 1 Presentations</td>
+  <td id="D2ME"></td>
+  <td id="D3ME"></td>
+  <td id="D4ME"></td>
+  <td id="D5ME"></td>
   </tr>
   
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M1">Project 1</td>
-  <td id="D2M1">Project 1</td>
-  <td id="D3M1">Project 1</td>
-  <td id="D4M1">Project 1</td>
-  <td id="D5M1">Project 1</td>
+  <td id="D1M1"></td>
+  <td id="D2M1"></td>
+  <td id="D3M1"></td>
+  <td id="D4M1"></td>
+  <td id="D5M1"></td>
   </tr>
   
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M2">Project 1</td>
-  <td id="D2M2">Project 1</td>
-  <td id="D3M2">Project 1</td>
-  <td id="D4M2">Project 1</td>
-  <td id="D5M2">Project 1</td>
+  <td id="D1M2"></td>
+  <td id="D2M2"></td>
+  <td id="D3M2"></td>
+  <td id="D4M2"></td>
+  <td id="D5M2"></td>
   </tr>
-
+  
+  <tr><td><strong>Extra Reps</strong></td>
+  <td id="D1HW"></td>
+  <td id="D2HW"></td>
+  <td id="D3HW"></td>
+  <td id="D4HW"></td>
+  <td id="D5HW"></td>
+  </tr></tbody></table>
 
 
 ## Week 3
@@ -583,36 +590,29 @@ Unit 2
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1ME"></td>
-  <td id="D2ME"></td>
+  <td id="D1ME">TTT Review</td>
+  <td id="D2ME">Project 1</td>
   <td id="D3ME">Outcomes</td>
-  <td id="D4ME"></td>
-  <td id="D5ME"></td>
+  <td id="D4ME">Project 1</td>
+  <td id="D5ME">Project 1</td>
   </tr>
   
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M1">Object-Oriented Programming</td>
-  <td id="D2M1">Semantic HTML & CSS Selectors</td>
-  <td id="D3M1">Responsive Design, Flexbox, Grid</td>
-  <td id="D4M1">Vanilla JS: DOM Manipulations</td>
-  <td id="D5M1">Browser Events, JavaScript Event Queue</td>
+  <td id="D1M1">Project 1 Intro & Planning</td>
+  <td id="D2M1">Project 1</td>
+  <td id="D3M1">Project 1</td>
+  <td id="D4M1">Project 1</td>
+  <td id="D5M1">Project 1</td>
   </tr>
   
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M2"></td>
-  <td id="D2M2"></td>
-  <td id="D3M2"></td>
-  <td id="D4M2"></td>
-  <td id="D5M2"></td>
+  <td id="D1M2">Project 1 Planning & Start</td>
+  <td id="D2M2">Project 1</td>
+  <td id="D3M2">Project 1</td>
+  <td id="D4M2">Project 1</td>
+  <td id="D5M2">Project 1</td>
   </tr></tbody></table>
 
-  <tr><td><strong>Extra Reps</strong></td>
-  <td id="D1L"></td>
-  <td id="D2L"></td>
-  <td id="D3L"></td>
-  <td id="D4L"></td>
-  <td id="D5L"></td>
-  </tr></tbody></table>
 
 ## Week 2
 > **Dates:** Oct. 21 - 25
@@ -629,9 +629,9 @@ Unit 2
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
   <td id="D1ME">Sublime IDE</td>
-  <td id="D2ME"></td>
+  <td id="D2ME">Review</td>
   <td id="D3ME">Outcomes</td>
-  <td id="D4ME"></td>
+  <td id="D4ME">Review</td>
   <td id="D5ME">Review</td>
   </tr>
   
@@ -648,15 +648,15 @@ Unit 2
   <td id="D2M2">Solar System Lab</td>
   <td id="D3M2">OOP Pokemon</td>
   <td id="D4M2">Semantic HTML & CSS Selectors</td>
-  <td id="D5M2"></td>
+  <td id="D5M2">Browser Events, JavaScript Event Queue / Tic Tac Toe</td>
   </tr>
   
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D1L">Functions Lab</td>
   <td id="D2L">Weather Object Lab</td>
   <td id="D3L">OOP Pokemon</td>
-  <td id="D4L"></td>
-  <td id="D5L"></td>
+  <td id="D4L">Responsive Design, Flexbox, Grid</td>
+  <td id="D5L">Complete TTT + Bonuses</td>
   </tr></tbody></table>
 
 -->
@@ -714,10 +714,25 @@ Unit 2
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>19/10</td>
+      <td>Weekend Reps</td>
+      <td>1/11</td>
     </tr>
+    <!-- <tr>
+      <td></td>
+      <td>Weather Object Lab</td>
+      <td>1/11</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>OOP Pokemon</td>
+      <td>1/11</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Tic Tac Toe</td>
+      <td>1/11</td>
+    </tr> -->
   </tbody>
 </table>
 
