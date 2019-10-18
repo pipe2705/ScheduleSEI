@@ -585,7 +585,7 @@ Unit 2
 <tr><td><strong>Morning Exercise</strong></td>
   <td id="D1ME"></td>
   <td id="D2ME"></td>
-  <td id="D3ME"></td>
+  <td id="D3ME">Outcomes</td>
   <td id="D4ME"></td>
   <td id="D5ME"></td>
   </tr>
@@ -628,33 +628,33 @@ Unit 2
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1ME"></td>
+  <td id="D1ME">Sublime IDE</td>
   <td id="D2ME"></td>
-  <td id="D3ME"></td>
+  <td id="D3ME">Outcomes</td>
   <td id="D4ME"></td>
-  <td id="D5ME"></td>
+  <td id="D5ME">Review</td>
   </tr>
   
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M1"></td>
-  <td id="D2M1"></td>
-  <td id="D3M1"></td>
-  <td id="D4M1"></td>
-  <td id="D5M1"></td>
+  <td id="D1M1">Functions & Scope / Stacks</td>
+  <td id="D2M1">Objects / Hash Tables</td>
+  <td id="D3M1">Objects pt 2: Prototype & 'this'</td>
+  <td id="D4M1">Object-Oriented Programming</td>
+  <td id="D5M1">Vanilla JS: DOM Manipulations</td>
   </tr>
   
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M2"></td>
-  <td id="D2M2"></td>
-  <td id="D3M2"></td>
-  <td id="D4M2"></td>
+  <td id="D1M2">Functions Lab</td>
+  <td id="D2M2">Solar System Lab</td>
+  <td id="D3M2">OOP Pokemon</td>
+  <td id="D4M2">Semantic HTML & CSS Selectors</td>
   <td id="D5M2"></td>
   </tr>
   
   <tr><td><strong>Extra Reps</strong></td>
-  <td id="D1L"></td>
-  <td id="D2L"></td>
-  <td id="D3L"></td>
+  <td id="D1L">Functions Lab</td>
+  <td id="D2L">Weather Object Lab</td>
+  <td id="D3L">OOP Pokemon</td>
   <td id="D4L"></td>
   <td id="D5L"></td>
   </tr></tbody></table>
