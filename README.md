@@ -636,11 +636,11 @@ Unit 2
   </tr>
   
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M1">JavaScript: Data Types & Streams</td>
-  <td id="D2M1">Control Flow, Arrays & Iteration</td>
-  <td id="D3M1">Functions & Scope</td>
-  <td id="D4M1">Objects</td>
-  <td id="D5M1">Objects pt 2: Prototype & 'this'</td>
+  <td id="D1M1"></td>
+  <td id="D2M1"></td>
+  <td id="D3M1"></td>
+  <td id="D4M1"></td>
+  <td id="D5M1"></td>
   </tr>
   
   <tr><td><strong>Module 2</strong></td>
@@ -680,12 +680,12 @@ Unit 2
 <tr><td><strong>Morning Exercise</strong></td>
   <td id="D3ME">Orientation</td>
   <td id="D4ME">.bash_profile & Schedules</td>
-  <td id="D5ME">IDEs</td>
+  <td id="D5ME"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">Regex</a></td>
   </tr>
   
   <tr><td><strong>Module 1</strong></td>
   <td id="D3M1">Welcome to GA / Icebreakers</td>
-  <td id="D4M1">CLI: Processes & Permissions / <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">Regex</a></td>
+  <td id="D4M1">CLI: Processes & Permissions</td>
   <td id="D5M1">JavaScript: Data Types & Streams</td>
   </tr>
   
@@ -697,8 +697,8 @@ Unit 2
   
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D3L"><a href="https://git.generalassemb.ly/SEI-SF/hw-unix-cli-practice">Terminal Practice</a></td>
-  <td id="D4L"><a href="https://regexcrossword.com/">Regex Crossword</a> / <a href="https://guides.github.com/">Read First Four Guides</a></td>
-  <td id="D5L"><a href="https://git.generalassemb.ly/SEI-SF/weekend-reps-long-hw">Weekend Reps</a></td>
+  <td id="D4L"><a href="https://guides.github.com/">Read First Four Guides</a></td>
+  <td id="D5L"><a href="https://regexcrossword.com/">Regex Crossword</a> / <a href="https://git.generalassemb.ly/SEI-SF/weekend-reps-long-hw">Weekend Reps</a></td>
   </tr></tbody></table>
 
 
