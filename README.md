@@ -707,16 +707,16 @@ Unit 2
 <table>
   <thead>
     <tr>
-      <td>Date Assigned</td>
-      <td>Deliverable</td>
-      <td>Final Due Date</td>
+      <td><b>Date Assigned</b></td>
+      <td><b>Deliverable</b></td>
+      <td><b>Final Due Date</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>19/10</td>
+      <td>Oct. 19th</td>
       <td>Weekend Reps</td>
-      <td>1/11</td>
+      <td>Nov. 1st</td>
     </tr>
     <!-- <tr>
       <td></td>
