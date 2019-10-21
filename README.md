@@ -659,7 +659,7 @@ Unit 2
   <td id="D1M2">
     <ul>
       <li><a href="https://git.generalassemb.ly/SEI-SF/functions">Functions & Scope / Stacks</a></li>
-      <li><a href="">Functions Lab</a></li>
+      <li><a href="https://git.generalassemb.ly/SEI-SF/functions-lab">Functions Lab</a></li>
     </ul>
   </td>
   <td id="D2M2">Solar System Lab</td>
@@ -669,7 +669,7 @@ Unit 2
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
-  <td id="D1L">Functions Lab</td>
+  <td id="D1L"><a href="https://git.generalassemb.ly/SEI-SF/functions-lab">Functions Lab</a></td>
   <td id="D2L">Weather Object Lab</td>
   <td id="D3L">OOP Pokemon</td>
   <td id="D4L">Responsive Design, Flexbox, Grid</td>
