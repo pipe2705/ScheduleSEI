@@ -28,7 +28,7 @@
   <td id="D4M1">Final Project</td>
   <td id="D5M1">Final Project</td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2">Holiday</td>
   <td id="D2M2">Final Project</td>
@@ -36,7 +36,7 @@
   <td id="D4M2">Final Project</td>
   <td id="D5M2">Final Project</td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3">Holiday</td>
   <td id="D2M3">Final Project</td>
@@ -44,7 +44,7 @@
   <td id="D4M3">Final Project</td>
   <td id="D5M3">Final Project</td>
   </tr>
-  
+
   <tr><td><strong>Labs</strong></td>
   <td id="D1HW">Holiday</td>
   <td id="D2HW">Final Project</td>
@@ -75,7 +75,7 @@
   <td id="D4ME">Final Project</td>
   <td id="D5ME">Final Project</td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M1">Final Project</td>
   <td id="D2M1">Final Project</td>
@@ -83,7 +83,7 @@
   <td id="D4M1">Final Project</td>
   <td id="D5M1">Final Project</td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M2">Final Project</td>
   <td id="D2M2">Final Project</td>
@@ -91,7 +91,7 @@
   <td id="D4M2">Final Project</td>
   <td id="D5M2">Final Project</td>
   </tr>
-  
+
   <tr><td><strong>Labs</strong></td>
   <td id="D1L">Final Project</td>
   <td id="D2L">Final Project</td>
@@ -122,7 +122,7 @@
   <td id="D4M1"></td>
   <td id="D5M1"></td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2"></td>
   <td id="D2M2"></td>
@@ -130,7 +130,7 @@
   <td id="D4M2"></td>
   <td id="D5M2"></td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3"></td>
   <td id="D2M3"></td>
@@ -138,7 +138,7 @@
   <td id="D4M3"></td>
   <td id="D5M3"></td>
   </tr>
-  
+
   <tr><td><strong>Labs</strong></td>
   <td id="D1HW"></td>
   <td id="D2HW"></td>
@@ -169,7 +169,7 @@
   <td id="D4M1"></td>
   <td id="D5M1"></td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2">Holiday 🎉</td>
   <td id="D2M2">Holiday 🎉</td>
@@ -177,7 +177,7 @@
   <td id="D4M2"></td>
   <td id="D5M2"></td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3">Holiday 🎉</td>
   <td id="D2M3">Holiday 🎉</td>
@@ -185,7 +185,7 @@
   <td id="D4M3"></td>
   <td id="D5M3"></td>
   </tr>
-  
+
   <tr><td><strong>Labs</strong></td>
   <td id="D1HW"></td>
   <td id="D2HW"></td>
@@ -218,7 +218,7 @@
   <td id="D4M1"></td>
   <td id="D5M1"></td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2"></td>
   <td id="D2M2"></td>
@@ -226,7 +226,7 @@
   <td id="D4M2"></td>
   <td id="D5M2"></td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3"></td>
   <td id="D2M3"></td>
@@ -234,7 +234,7 @@
   <td id="D4M3"></td>
   <td id="D5M3"></td>
   </tr>
-  
+
   <tr><td><strong>M4</strong></td>
   <td id="D1M4"></td>
   <td id="D2M4"></td>
@@ -242,7 +242,7 @@
   <td id="D4M4"></td>
   <td id="D5M4"></td>
   </tr>
-  
+
   <tr><td><strong>Labs</strong></td>
   <td id="D1HW"></td>
   <td id="D2HW"></td>
@@ -273,7 +273,7 @@
   <td id="D4M1"></td>
   <td id="D5M1"></td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2"></td>
   <td id="D2M2"></td>
@@ -281,7 +281,7 @@
   <td id="D4M2"></td>
   <td id="D5M2"></td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3"></td>
   <td id="D2M3"></td>
@@ -289,7 +289,7 @@
   <td id="D4M3"></td>
   <td id="D5M3"></td>
   </tr>
-  
+
   <tr><td><strong>M4</strong></td>
   <td id="D1M4"></td>
   <td id="D2M4"></td>
@@ -297,7 +297,7 @@
   <td id="D4M4"></td>
   <td id="D5M4"></td>
   </tr>
-  
+
   <tr><td><strong>Labs</strong></td>
   <td id="D1HW"></td>
   <td id="D2HW"></td>
@@ -328,7 +328,7 @@
   <td id="D4M1"></td>
   <td id="D5M1"></td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2"></td>
   <td id="D2M2"></td>
@@ -336,7 +336,7 @@
   <td id="D4M2"></td>
   <td id="D5M2"></td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3"></td>
   <td id="D2M3"></td>
@@ -344,7 +344,7 @@
   <td id="D4M3"></td>
   <td id="D5M3"></td>
   </tr>
-  
+
   <tr><td><strong>M4</strong></td>
   <td id="D1M4"></td>
   <td id="D2M4"></td>
@@ -352,7 +352,7 @@
   <td id="D4M4"></td>
   <td id="D5M4"></td>
   </tr>
-  
+
   <tr><td><strong>Labs</strong></td>
   <td id="D1HW"></td>
   <td id="D2HW"></td>
@@ -383,7 +383,7 @@
   <td id="D4M1">Holiday 🦃</td>
   <td id="D5M1">Holiday 🦃</td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2"></td>
   <td id="D2M2"></td>
@@ -391,7 +391,7 @@
   <td id="D4M2">Holiday 🦃</td>
   <td id="D5M2">Holiday 🦃</td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3"></td>
   <td id="D2M3"></td>
@@ -399,7 +399,7 @@
   <td id="D4M3">Holiday 🦃</td>
   <td id="D5M3">Holiday 🦃</td>
   </tr>
-  
+
   <tr><td><strong>M4</strong></td>
   <td id="D1M4"></td>
   <td id="D2M4"></td>
@@ -407,7 +407,7 @@
   <td id="D4M4">Holiday 🦃</td>
   <td id="D5M4">Holiday 🦃</td>
   </tr>
-  
+
   <tr><td><strong>Labs</strong></td>
   <td id="D1HW"></td>
   <td id="D2HW"></td>
@@ -438,7 +438,7 @@
   <td id="D4M1"></td>
   <td id="D5M1"></td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2"></td>
   <td id="D2M2"></td>
@@ -446,7 +446,7 @@
   <td id="D4M2"></td>
   <td id="D5M2"></td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3"></td>
   <td id="D2M3"></td>
@@ -454,7 +454,7 @@
   <td id="D4M3"></td>
   <td id="D5M3"></td>
   </tr>
-  
+
   <tr><td><strong>M4</strong></td>
   <td id="D1M4"></td>
   <td id="D2M4"></td>
@@ -462,7 +462,7 @@
   <td id="D4M4"></td>
   <td id="D5M4"></td>
   </tr>
-  
+
   <tr><td><strong>Labs</strong></td>
   <td id="D1HW"></td>
   <td id="D2HW"></td>
@@ -493,7 +493,7 @@
   <td id="D4M1"></td>
   <td id="D5M1"></td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2"></td>
   <td id="D2M2"></td>
@@ -501,7 +501,7 @@
   <td id="D4M2"></td>
   <td id="D5M2"></td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3"></td>
   <td id="D2M3"></td>
@@ -509,7 +509,7 @@
   <td id="D4M3"></td>
   <td id="D5M3"></td>
   </tr>
-  
+
   <tr><td><strong>M4</strong></td>
   <td id="D1M4"></td>
   <td id="D2M4"></td>
@@ -517,7 +517,7 @@
   <td id="D4M4"></td>
   <td id="D5M4"></td>
   </tr>
-  
+
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D1HW"></td>
   <td id="D2HW"></td>
@@ -550,7 +550,7 @@ Unit 2
   <td id="D4ME"></td>
   <td id="D5ME"></td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M1"></td>
   <td id="D2M1"></td>
@@ -558,7 +558,7 @@ Unit 2
   <td id="D4M1"></td>
   <td id="D5M1"></td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M2"></td>
   <td id="D2M2"></td>
@@ -566,7 +566,7 @@ Unit 2
   <td id="D4M2"></td>
   <td id="D5M2"></td>
   </tr>
-  
+
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D1HW"></td>
   <td id="D2HW"></td>
@@ -596,7 +596,7 @@ Unit 2
   <td id="D4ME">Project 1</td>
   <td id="D5ME">Project 1</td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M1">Project 1 Intro & Planning</td>
   <td id="D2M1">Project 1</td>
@@ -604,7 +604,7 @@ Unit 2
   <td id="D4M1">Project 1</td>
   <td id="D5M1">Project 1</td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M2">Project 1 Planning & Start</td>
   <td id="D2M2">Project 1</td>
@@ -612,6 +612,12 @@ Unit 2
   <td id="D4M2">Project 1</td>
   <td id="D5M2">Project 1</td>
   </tr></tbody></table>
+-->
+
+
+## Unit 1
+<p>Welcome to SEI! In the first unit we'll be focusing our efforts on learning the fundamentals of developing in a Linux environment. Expect to get to know your development environment and to get some more practice with <strong>HTML</strong>, <strong>CSS</strong>, and the language we'll spend the most time with over the following weeks: <strong>Javascript</strong>.</p>
+
 
 
 ## Week 2
@@ -627,30 +633,41 @@ Unit 2
 </tr>
 </thead>
 <tbody>
-<tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1ME">Sublime IDE</td>
-  <td id="D2ME">Review</td>
-  <td id="D3ME">Outcomes</td>
-  <td id="D4ME">Review</td>
-  <td id="D5ME">Review</td>
+  <tr><td><strong>Morning Exercise</strong></td>
+    <td id="D1ME">Keyboard Warm Up</td>
+    <td id="D2ME">Review</td>
+    <td id="D3ME">Outcomes</td>
+    <td id="D4ME">Review</td>
+    <td id="D5ME">Review</td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M1">Functions & Scope / Stacks</td>
+  <td id="D1M1">
+    <ul>
+      <li><a href="https://git.generalassemb.ly/SEI-SF/intro-to-programming">Intro to Programming</a></li>
+      <li><a href="https://git.generalassemb.ly/SEI-SF/data-types-and-expressions">Data Types and Expressions</a></li>
+      <li><a href="https://git.generalassemb.ly/SEI-SF/statements">Statements</a></li>
+    </ul>
+  </td>
   <td id="D2M1">Objects / Hash Tables</td>
   <td id="D3M1">Objects pt 2: Prototype & 'this'</td>
   <td id="D4M1">Object-Oriented Programming</td>
   <td id="D5M1">Vanilla JS: DOM Manipulations</td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M2">Functions Lab</td>
+  <td id="D1M2">
+    <ul>
+      <li><a href="https://git.generalassemb.ly/SEI-SF/functions">Functions & Scope / Stacks</a></li>
+      <li><a href="">Functions Lab</a></li>
+    </ul>
+  </td>
   <td id="D2M2">Solar System Lab</td>
   <td id="D3M2">OOP Pokemon</td>
   <td id="D4M2">Semantic HTML & CSS Selectors</td>
   <td id="D5M2">Browser Events, JavaScript Event Queue / Tic Tac Toe</td>
   </tr>
-  
+
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D1L">Functions Lab</td>
   <td id="D2L">Weather Object Lab</td>
@@ -659,15 +676,9 @@ Unit 2
   <td id="D5L">Complete TTT + Bonuses</td>
   </tr></tbody></table>
 
--->
-
-
-## Unit 1
-<p>Welcome to SEI! In the first unit we'll be focusing our efforts on learning the fundamentals of developing in a Linux environment. Expect to get to know your development environment and to get some more practice with <strong>HTML</strong>, <strong>CSS</strong>, and the language we'll spend the most time with over the following weeks: <strong>Javascript</strong>.</p>
-
 
 ### Week 1
-> **Dates:** Oct. 16 - 18 
+> **Dates:** Oct. 16 - 18
 <table>
 <thead>
 <tr><td></td>
@@ -682,19 +693,19 @@ Unit 2
   <td id="D4ME">.bash_profile & Schedules</td>
   <td id="D5ME"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">Regex</a></td>
   </tr>
-  
+
   <tr><td><strong>Module 1</strong></td>
   <td id="D3M1">Welcome to GA / Icebreakers</td>
   <td id="D4M1">CLI: Processes & Permissions</td>
   <td id="D5M1"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">JavaScript: Data Types & Streams</a></td>
   </tr>
-  
+
   <tr><td><strong>Module 2</strong></td>
   <td id="D3M2"><a href="https://git.generalassemb.ly/SEI-SF/os-navigation-terminal">CLI: Files & Folders</a> / Trees</td>
   <td id="D4M2"><a href="https://git.generalassemb.ly/SEI-SF/github">GitHub</a> / <a href="https://git.generalassemb.ly/SEI-SF/git-github-lab">GitHub Lab</a></td>
   <td id="D5M2"><a href="https://git.generalassemb.ly/SEI-SF/conditionals-and-loops">Control Flow, Arrays, and Iteration</a> / <a href="https://git.generalassemb.ly/SEI-SF/loop-lab">Loop Lab</a> / Review</td>
   </tr>
-  
+
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D3L"><a href="https://git.generalassemb.ly/SEI-SF/hw-unix-cli-practice">Terminal Practice</a></td>
   <td id="D4L"><a href="https://guides.github.com/">Read First Four Guides</a></td>
@@ -744,7 +755,7 @@ Unit 2
 |Role        | Name            | Slack       | Email |
 |:--         | :--             | :--         | :-- |
 | Co-Instructor | Tyler Lane | @tylerlanecodes  | tyler.lane@generalassemb.ly |
-| Co-Instructor | Brock Whitbread-Cole | @brock | brock.whitbread@generalassemb.ly 
+| Co-Instructor | Brock Whitbread-Cole | @brock | brock.whitbread@generalassemb.ly
 | Instructor Associate | Michael Petty | @Michael Petty | michael.petty@generalassemb.ly |
 
 ### Important Dates
