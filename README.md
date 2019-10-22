@@ -670,7 +670,7 @@ Unit 2
 
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D1L"><a href="https://git.generalassemb.ly/SEI-SF/functions-lab">Functions Lab</a></td>
-  <td id="D2L"><a href="https://git.generalassemb.ly/sf-sei-5/weather-object-lab"Weather Object Lab</a></td>
+  <td id="D2L"><a href="https://git.generalassemb.ly/sf-sei-5/weather-object-lab">Weather Object Lab</a></td>
   <td id="D3L">OOP Pokemon</td>
   <td id="D4L">Responsive Design, Flexbox, Grid</td>
   <td id="D5L">Complete TTT + Bonuses</td>
