@@ -725,9 +725,14 @@ Unit 2
   </thead>
   <tbody>
     <tr>
-      <td>Oct. 19th</td>
-      <td>Weekend Reps</td>
-      <td>Nov. 1st</td>
+      <td>Oct. 19</td>
+      <td><a href="https://git.generalassemb.ly/SEI-SF/weekend-reps-long-hw">Weekend Reps</a></td>
+      <td>Nov. 1</td>
+    </tr>
+    <tr>
+      <td>Oct. 21</td>
+      <td><a href="https://git.generalassemb.ly/SEI-SF/functions-lab">Functions Lab</a></td>
+      <td>Nov. 1</td>
     </tr>
     <!-- <tr>
       <td></td>
