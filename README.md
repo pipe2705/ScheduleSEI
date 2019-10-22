@@ -649,7 +649,7 @@ Unit 2
       <li><a href="https://git.generalassemb.ly/SEI-SF/statements">Statements</a></li>
     </ul>
   </td>
-  <td id="D2M1">Objects / Hash Tables</td>
+  <td id="D2M1"><a href="https://git.generalassemb.ly/SEI-SF/objects">Objects</a></td>
   <td id="D3M1">Objects pt 2: Prototype & 'this'</td>
   <td id="D4M1">Object-Oriented Programming</td>
   <td id="D5M1">Vanilla JS: DOM Manipulations</td>
@@ -662,7 +662,7 @@ Unit 2
       <li><a href="https://git.generalassemb.ly/SEI-SF/functions-lab">Functions Lab</a></li>
     </ul>
   </td>
-  <td id="D2M2">Solar System Lab</td>
+  <td id="D2M2"><a href="https://git.generalassemb.ly/SEI-SF/objects-lab">Objects Lab</a></td>
   <td id="D3M2">OOP Pokemon</td>
   <td id="D4M2">Semantic HTML & CSS Selectors</td>
   <td id="D5M2">Browser Events, JavaScript Event Queue / Tic Tac Toe</td>
