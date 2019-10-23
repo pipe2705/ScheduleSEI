@@ -734,11 +734,12 @@ Unit 2
       <td><a href="https://git.generalassemb.ly/SEI-SF/functions-lab">Functions Lab</a></td>
       <td>Nov. 1</td>
     </tr>
-    <!-- <tr>
-      <td></td>
-      <td>Weather Object Lab</td>
-      <td>1/11</td>
+    <tr>
+      <td>Oct. 22</td>
+      <td><a href="https://git.generalassemb.ly/sf-sei-5/weather-object-lab">Weather Object Lab</a></td>
+      <td>Nov. 1</td>
     </tr>
+    <!--
     <tr>
       <td></td>
       <td>OOP Pokemon</td>
