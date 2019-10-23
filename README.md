@@ -650,7 +650,13 @@ Unit 2
     </ul>
   </td>
   <td id="D2M1"><a href="https://git.generalassemb.ly/SEI-SF/objects">Objects</a></td>
-  <td id="D3M1">Objects pt 2: Prototype & 'this'</td>
+  <td id="D3M1">
+    <ul>
+      <li><a href="https://git.generalassemb.ly/SEI-SF/cat-combinator">Cat Combinator</a></li>
+      <li><a href="https://git.generalassemb.ly/SEI-SF/this">Objects pt 2: Prototype & 'this'</a></li>
+      <li><a href="https://git.generalassemb.ly/SEI-SF/solar-system-lab">Solar System Lab</a></li>
+    </ul>
+  </td>
   <td id="D4M1">Object-Oriented Programming</td>
   <td id="D5M1">Vanilla JS: DOM Manipulations</td>
   </tr>
