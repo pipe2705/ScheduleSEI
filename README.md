@@ -637,7 +637,7 @@ Unit 2
     <td id="D1ME">Keyboard Warm Up</td>
     <td id="D2ME">Review</td>
     <td id="D3ME">Outcomes</td>
-    <td id="D4ME">Review</td>
+    <td id="D4ME"><a href="https://www.learnenough.com/command-line-tutorial/basics#sec-introduction">CLI Exercise</a></td>
     <td id="D5ME">Review</td>
   </tr>
 
@@ -654,10 +654,9 @@ Unit 2
     <ul>
       <li><a href="https://git.generalassemb.ly/SEI-SF/cat-combinator">Cat Combinator</a></li>
       <li><a href="https://git.generalassemb.ly/SEI-SF/this">Objects pt 2: Prototype & 'this'</a></li>
-      <li><a href="https://git.generalassemb.ly/SEI-SF/solar-system-lab">Solar System Lab</a></li>
     </ul>
   </td>
-  <td id="D4M1">Object-Oriented Programming</td>
+  <td id="D4M1"><a href="https://git.generalassemb.ly/SEI-SF/pokiemans">OOP Pokemon</a></td>
   <td id="D5M1">Vanilla JS: DOM Manipulations</td>
   </tr>
 
@@ -669,16 +668,16 @@ Unit 2
     </ul>
   </td>
   <td id="D2M2"><a href="https://git.generalassemb.ly/SEI-SF/objects-lab">Objects Lab</a></td>
-  <td id="D3M2">OOP Pokemon</td>
-  <td id="D4M2">Semantic HTML & CSS Selectors</td>
+  <td id="D3M2"><a href="https://git.generalassemb.ly/SEI-SF/solar-system-lab">Solar System Lab</a></td>
+  <td id="D4M2"><a href="https://git.generalassemb.ly/SEI-SF/pokiemans">OOP Pokemon</a></td>
   <td id="D5M2">Browser Events, JavaScript Event Queue / Tic Tac Toe</td>
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D1L"><a href="https://git.generalassemb.ly/SEI-SF/functions-lab">Functions Lab</a></td>
   <td id="D2L"><a href="https://git.generalassemb.ly/sf-sei-5/weather-object-lab">Weather Object Lab</a></td>
-  <td id="D3L">OOP Pokemon</td>
-  <td id="D4L">Responsive Design, Flexbox, Grid</td>
+  <td id="D3L"><a href="https://git.generalassemb.ly/SEI-SF/solar-system-lab">Solar System Lab</a></td>
+  <td id="D4L"><a href="https://git.generalassemb.ly/SEI-SF/pokiemans">OOP Pokemon</a></td>
   <td id="D5L">Complete TTT + Bonuses</td>
   </tr></tbody></table>
 
@@ -745,12 +744,12 @@ Unit 2
       <td><a href="https://git.generalassemb.ly/sf-sei-5/weather-object-lab">Weather Object Lab</a></td>
       <td>Nov. 1</td>
     </tr>
-    <!--
     <tr>
-      <td></td>
-      <td>OOP Pokemon</td>
-      <td>1/11</td>
+      <td>Oct. 24</td>
+      <td><a href="https://git.generalassemb.ly/SEI-SF/pokiemans">OOP Pokemon</a></td>
+      <td>Nov. 1</td>
     </tr>
+    <!--
     <tr>
       <td></td>
       <td>Tic Tac Toe</td>
