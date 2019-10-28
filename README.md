@@ -576,6 +576,13 @@ Unit 2
   </tr></tbody></table>
 
 
+-->
+
+
+## Unit 1
+<p>Welcome to SEI! In the first unit we'll be focusing our efforts on learning the fundamentals of developing in a Linux environment. Expect to get to know your development environment and to get some more practice with <strong>HTML</strong>, <strong>CSS</strong>, and the language we'll spend the most time with over the following weeks: <strong>Javascript</strong>.</p>
+
+
 ## Week 3
 > **Dates:** Oct. 28 - Nov. 1
 <table>
@@ -590,35 +597,41 @@ Unit 2
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1ME">TTT Review</td>
-  <td id="D2ME">Project 1</td>
+  <td id="D1ME">Think Like a Programmer</td>
+  <td id="D2ME">Review</td>
   <td id="D3ME">Outcomes</td>
-  <td id="D4ME">Project 1</td>
-  <td id="D5ME">Project 1</td>
+  <td id="D4ME">Review</td>
+  <td id="D5ME">Review</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M1">Project 1 Intro & Planning</td>
-  <td id="D2M1">Project 1</td>
-  <td id="D3M1">Project 1</td>
-  <td id="D4M1">Project 1</td>
-  <td id="D5M1">Project 1</td>
+  <td id="D1M1">
+    <ul>
+      <li><a href="https://git.generalassemb.ly/sf-wdi-46/the-client-server-and-you">How to Internet</a></li>
+      <li><a href="https://git.generalassemb.ly/SEI-SF/html-lab">HTML Lab</a></li>
+    </ul>
+  </td>
+  <td id="D2M1"></td>
+  <td id="D3M1"></td>
+  <td id="D4M1"></td>
+  <td id="D5M1"></td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M2">Project 1 Planning & Start</td>
-  <td id="D2M2">Project 1</td>
-  <td id="D3M2">Project 1</td>
-  <td id="D4M2">Project 1</td>
-  <td id="D5M2">Project 1</td>
+  <td id="D1M2"><a href="https://git.generalassemb.ly/SEI-SF/css-lab">CSS Lab</a></td>
+  <td id="D2M2"></td>
+  <td id="D3M2"></td>
+  <td id="D4M2"></td>
+  <td id="D5M2"></td>
+  </tr>
+
+  <tr><td><strong>Extra Reps</strong></td>
+  <td id="D1L"><a href="https://git.generalassemb.ly/SEI-SF/css-homework">CSS Homework</a></td>
+  <td id="D2L"></td>
+  <td id="D3L"></td>
+  <td id="D4L"></td>
+  <td id="D5L"></td>
   </tr></tbody></table>
--->
-
-
-## Unit 1
-<p>Welcome to SEI! In the first unit we'll be focusing our efforts on learning the fundamentals of developing in a Linux environment. Expect to get to know your development environment and to get some more practice with <strong>HTML</strong>, <strong>CSS</strong>, and the language we'll spend the most time with over the following weeks: <strong>Javascript</strong>.</p>
-
-
 
 ## Week 2
 > **Dates:** Oct. 21 - 25
