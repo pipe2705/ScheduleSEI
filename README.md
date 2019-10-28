@@ -626,7 +626,7 @@ Unit 2
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
-  <td id="D1L"><a href="https://git.generalassemb.ly/SEI-SF/css-homework">CSS Homework</a></td>
+  <td id="D1L"><a href="https://git.generalassemb.ly/SEI-SF/html-css-homework">HTML/CSS Homework</a></td>
   <td id="D2L"></td>
   <td id="D3L"></td>
   <td id="D4L"></td>
