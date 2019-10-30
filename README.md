@@ -612,14 +612,19 @@ Unit 2
     </ul>
   </td>
   <td id="D2M1"></td>
-  <td id="D3M1"></td>
+  <td id="D3M1"><a href="https://css-tricks.com/css-grid-one-layout-multiple-ways/">CSS Grid</a></td>
   <td id="D4M1"></td>
   <td id="D5M1"></td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M2"><a href="https://git.generalassemb.ly/SEI-SF/css-lab">CSS Lab</a></td>
-  <td id="D2M2"></td>
+  <td id="D2M2">
+    <ul>
+      <li><a href="https://flexboxfroggy.com/">Flexbox Froggy</a></li>
+      <li><a href="https://cssgridgarden.com/"">Grid Garden</a></li>
+    </ul>
+  </td>
   <td id="D3M2"></td>
   <td id="D4M2"></td>
   <td id="D5M2"></td>
@@ -760,6 +765,11 @@ Unit 2
     <tr>
       <td>Oct. 24</td>
       <td><a href="https://git.generalassemb.ly/SEI-SF/pokiemans">OOP Pokemon</a></td>
+      <td>Nov. 1</td>
+    </tr>
+    <tr>
+      <td>Oct. 28</td>
+      <td> <a href="https://git.generalassemb.ly/SEI-SF/html-css-homework">HTML/CSS Homework</a></td>
       <td>Nov. 1</td>
     </tr>
     <!--
