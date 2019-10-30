@@ -625,7 +625,12 @@ Unit 2
       <li><a href="https://cssgridgarden.com/"">Grid Garden</a></li>
     </ul>
   </td>
-  <td id="D3M2"></td>
+  <td id="D3M2">
+    <ul>
+      <li><a href="https://git.generalassemb.ly/SEI-SF/intro-to-dom/">Intro to the DOM</a></li>
+      <li><a href="https://git.generalassemb.ly/SEI-SF/event-lab/"">JS Events Lab</a></li>
+    </ul>
+  </td>
   <td id="D4M2"></td>
   <td id="D5M2"></td>
   </tr>
