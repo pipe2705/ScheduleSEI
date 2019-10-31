@@ -777,12 +777,11 @@ Unit 2
       <td> <a href="https://git.generalassemb.ly/SEI-SF/html-css-homework">HTML/CSS Homework</a></td>
       <td>Nov. 1</td>
     </tr>
-    <!--
     <tr>
-      <td></td>
-      <td>Tic Tac Toe</td>
-      <td>1/11</td>
-    </tr> -->
+    <td>Oct. 30</td>
+    <td> <a href="https://git.generalassemb.ly/SEI-SF/event-lab/">JS Events Lab</a></td>
+    <td>Nov. 1</td>
+    </tr>
   </tbody>
 </table>
 
