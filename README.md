@@ -582,6 +582,8 @@ Unit 2
 ## Unit 1
 <p>Welcome to SEI! In the first unit we'll be focusing our efforts on learning the fundamentals of developing in a Linux environment. Expect to get to know your development environment and to get some more practice with <strong>HTML</strong>, <strong>CSS</strong>, and the language we'll spend the most time with over the following weeks: <strong>Javascript</strong>.</p>
 
+## Project 1
+**<a href="https://git.generalassemb.ly/SEI-SF/project-1">Build A Game</a>**
 
 ## Week 3
 > **Dates:** Oct. 28 - Nov. 1
