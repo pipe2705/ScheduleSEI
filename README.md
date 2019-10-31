@@ -613,7 +613,7 @@ Unit 2
   </td>
   <td id="D2M1"></td>
   <td id="D3M1"><a href="https://css-tricks.com/css-grid-one-layout-multiple-ways/">CSS Grid</a></td>
-  <td id="D4M1"></td>
+  <td id="D4M1">JS Events Review</td>
   <td id="D5M1"></td>
   </tr>
 
@@ -631,7 +631,7 @@ Unit 2
       <li><a href="https://git.generalassemb.ly/SEI-SF/event-lab/"">JS Events Lab</a></li>
     </ul>
   </td>
-  <td id="D4M2"></td>
+  <td id="D4M2"><a href="https://git.generalassemb.ly/SEI-SF/harry-potter">DOM Magic Lab</a></td>
   <td id="D5M2"></td>
   </tr>
 
