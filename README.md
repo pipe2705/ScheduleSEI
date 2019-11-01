@@ -613,7 +613,7 @@ Unit 2
       <li><a href="https://git.generalassemb.ly/SEI-SF/html-lab">HTML Lab</a></li>
     </ul>
   </td>
-  <td id="D2M1"></td>
+  <td id="D2M1">CSS Properties, Selectors and the Box Model</td>
   <td id="D3M1"><a href="https://css-tricks.com/css-grid-one-layout-multiple-ways/">CSS Grid</a></td>
   <td id="D4M1">JS Events Review</td>
   <td id="D5M1"></td>
