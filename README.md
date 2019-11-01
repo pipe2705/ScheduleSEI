@@ -603,7 +603,7 @@ Unit 2
   <td id="D2ME">Review</td>
   <td id="D3ME">Outcomes</td>
   <td id="D4ME">Review</td>
-  <td id="D5ME">Review</td>
+  <td id="D5ME"><a href="https://projecteuler.net/">Project Euler</a> </td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
@@ -616,7 +616,7 @@ Unit 2
   <td id="D2M1">CSS Properties, Selectors and the Box Model</td>
   <td id="D3M1"><a href="https://css-tricks.com/css-grid-one-layout-multiple-ways/">CSS Grid</a></td>
   <td id="D4M1">JS Events Review</td>
-  <td id="D5M1"></td>
+  <td id="D5M1"><a href="https://git.generalassemb.ly/SEI-SF/handling-input">DOM Input Handling</a></td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
@@ -634,13 +634,13 @@ Unit 2
     </ul>
   </td>
   <td id="D4M2"><a href="https://git.generalassemb.ly/SEI-SF/harry-potter">DOM Magic Lab</a></td>
-  <td id="D5M2"></td>
+  <td id="D5M2"><a href="https://git.generalassemb.ly/SEI-SF/handling-input"><a href="https://git.generalassemb.ly/SEI-SF/todo-list-lab">To Do List Lab</a></td>
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D1L"><a href="https://git.generalassemb.ly/SEI-SF/html-css-homework">HTML/CSS Homework</a></td>
   <td id="D2L"></td>
-  <td id="D3L"></td>
+  <td id="D3L"><a href="https://git.generalassemb.ly/SEI-SF/event-lab/"">JS Events Lab</a></td>
   <td id="D4L"></td>
   <td id="D5L"></td>
   </tr></tbody></table>
