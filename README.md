@@ -471,7 +471,7 @@
   <td id="D5HW"></td>
   </tr></tbody></table>
 
-
+-->
 
 ## Unit 2
 <p>In this unit we'll move beyond working exclusively in the browser and start to investigate <strong>full stack web development</strong>. We're going to build web apps, interact with APIs, and broaden our horizons with <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MongoDB</strong>.</p>
@@ -500,7 +500,7 @@
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2">Veteran's Day</td>
   <td id="D2M2">Javascript Review</td>
-  <td id="D3M2">Express Intro</td>
+  <td id="D3M2">The Net and HTTP Modules</td>
   <td id="D4M2">Mongoose Intro</td>
   <td id="D5M2">Mongoose Associations</td>
   </tr>
@@ -508,15 +508,15 @@
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3">Veteran's Day</td>
   <td id="D2M3">Node.js and Modules / Linked Lists</td>
-  <td id="D3M3">Express Dynamic Routing / Express Cities</td>
+  <td id="D3M3">Express Intro & Lab</td>
   <td id="D4M3">Book App pt. 1</td>
   <td id="D5M3">Book App pt. 2 / Express Personal API</td>
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D1HW">Veteran's Day</td>
-  <td id="D2HW"></td>
-  <td id="D3HW">Express TDD Lab</td>
+  <td id="D2HW">Stream Adventure</td>
+  <td id="D3HW">Express Intro Lab</td>
   <td id="D4HW">Book App pt. 1</td>
   <td id="D5HW">Book App pt. 2 / Express Personal API</td>
   </tr></tbody></table>
@@ -534,13 +534,13 @@
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Nov. 13</td>
+      <td>Express Intro Lab</td>
       <td>Dec. 1</td>
     </tr>
   </tbody>
 </table>
--->
+
 
 
 ## Unit 1
