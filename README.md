@@ -508,7 +508,7 @@
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3">Veteran's Day</td>
   <td id="D2M3">Node.js and Modules / Linked Lists</td>
-  <td id="D3M3">NPM / <a href="https://git.generalassemb.ly/SEI-SF/intro-to-express">Express Intro & Lab</a></td>
+  <td id="D3M3">NPM / <a href="https://git.generalassemb.ly/SEI-SF/intro-to-express">Express Intro</a> & <a href="https://git.generalassemb.ly/SEI-SF/intro-to-express-lab">Lab</a></td>
   <td id="D4M3">Book App pt. 1</td>
   <td id="D5M3">Book App pt. 2</td>
   </tr>
