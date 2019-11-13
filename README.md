@@ -471,7 +471,6 @@
   <td id="D5HW"></td>
   </tr></tbody></table>
 
--->
 
 ## Unit 2
 <p>In this unit we'll move beyond working exclusively in the browser and start to investigate <strong>full stack web development</strong>. We're going to build web apps, interact with APIs, and broaden our horizons with <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MongoDB</strong>.</p>
@@ -541,6 +540,7 @@
   </tbody>
 </table>
 
+-->
 
 
 ## Unit 1
