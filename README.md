@@ -473,6 +473,9 @@
 
 
 
+## Unit 2
+<p>In this unit we'll move beyond working exclusively in the browser and start to investigate <strong>full stack web development</strong>. We're going to build web apps, interact with APIs, and broaden our horizons with <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MongoDB</strong>.</p>
+
 ## Week 5
 **Dates:** Nov. 11 - 15
 <table>
@@ -487,103 +490,64 @@
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1M1"></td>
-  <td id="D2M1"></td>
-  <td id="D3M1"></td>
-  <td id="D4M1"></td>
-  <td id="D5M1"></td>
+  <td id="D1M1">Veteran's Day</td>
+  <td id="D2M1">Unit 1 Quiz</td>
+  <td id="D3M1">Outcomes</td>
+  <td id="D4M1">CSS Profile Cards</td>
+  <td id="D5M1">Express Review</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M2"></td>
-  <td id="D2M2"></td>
-  <td id="D3M2"></td>
-  <td id="D4M2"></td>
-  <td id="D5M2"></td>
+  <td id="D1M2">Veteran's Day</td>
+  <td id="D2M2">Javascript Review</td>
+  <td id="D3M2">Express Intro</td>
+  <td id="D4M2">Mongoose Intro</td>
+  <td id="D5M2">Mongoose Associations</td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M3"></td>
-  <td id="D2M3"></td>
-  <td id="D3M3"></td>
-  <td id="D4M3"></td>
-  <td id="D5M3"></td>
-  </tr>
-
-  <tr><td><strong>M4</strong></td>
-  <td id="D1M4"></td>
-  <td id="D2M4"></td>
-  <td id="D3M4"></td>
-  <td id="D4M4"></td>
-  <td id="D5M4"></td>
+  <td id="D1M3">Veteran's Day</td>
+  <td id="D2M3">Node.js and Modules / Linked Lists</td>
+  <td id="D3M3">Express Dynamic Routing / Express Cities</td>
+  <td id="D4M3">Book App pt. 1</td>
+  <td id="D5M3">Book App pt. 2 / Express Personal API</td>
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
-  <td id="D1HW"></td>
+  <td id="D1HW">Veteran's Day</td>
   <td id="D2HW"></td>
-  <td id="D3HW"></td>
-  <td id="D4HW"></td>
-  <td id="D5HW"></td>
+  <td id="D3HW">Express TDD Lab</td>
+  <td id="D4HW">Book App pt. 1</td>
+  <td id="D5HW">Book App pt. 2 / Express Personal API</td>
   </tr></tbody></table>
 
 
-
-## Week 4
-Unit 2
-
-**Dates:** Nov. 4 - 8
+### Unit 2 - Deliverables
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
 <table>
-<thead>
-<tr><td></td>
-<th>Monday</th>
-<th>Tuesday</th>
-<th>Wednesday</th>
-<th>Thursday</th>
-<th>Friday</th>
-</tr>
-</thead>
-<tbody>
-<tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1ME">Project 1 Presentations</td>
-  <td id="D2ME"></td>
-  <td id="D3ME"></td>
-  <td id="D4ME"></td>
-  <td id="D5ME"></td>
-  </tr>
-
-  <tr><td><strong>Module 1</strong></td>
-  <td id="D1M1"></td>
-  <td id="D2M1"></td>
-  <td id="D3M1"></td>
-  <td id="D4M1"></td>
-  <td id="D5M1"></td>
-  </tr>
-
-  <tr><td><strong>Module 2</strong></td>
-  <td id="D1M2"></td>
-  <td id="D2M2"></td>
-  <td id="D3M2"></td>
-  <td id="D4M2"></td>
-  <td id="D5M2"></td>
-  </tr>
-
-  <tr><td><strong>Extra Reps</strong></td>
-  <td id="D1HW"></td>
-  <td id="D2HW"></td>
-  <td id="D3HW"></td>
-  <td id="D4HW"></td>
-  <td id="D5HW"></td>
-  </tr></tbody></table>
-
-
+  <thead>
+    <tr>
+      <td><b>Date Assigned</b></td>
+      <td><b>Deliverable</b></td>
+      <td><b>Final Due Date</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Dec. 1</td>
+    </tr>
+  </tbody>
+</table>
 -->
 
 
 ## Unit 1
 <p>Welcome to SEI! In the first unit we'll be focusing our efforts on learning the fundamentals of developing in a Linux environment. Expect to get to know your development environment and to get some more practice with <strong>HTML</strong>, <strong>CSS</strong>, and the language we'll spend the most time with over the following weeks: <strong>Javascript</strong>.</p>
 
-## Project 1
-**<a href="https://git.generalassemb.ly/SEI-SF/project-1">Build A Game</a>**
+## Week 4: 
+**Project 1:** <a href="https://git.generalassemb.ly/SEI-SF/project-1">Build A Game</a>
 
 ## Week 3
 > **Dates:** Oct. 28 - Nov. 1
