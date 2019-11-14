@@ -493,32 +493,32 @@
   <td id="D1M1">Veteran's Day</td>
   <td id="D2M1">Unit 1 Quiz</td>
   <td id="D3M1">Outcomes</td>
-  <td id="D4M1">CSS Profile Cards</td>
-  <td id="D5M1">Express Review</td>
+  <td id="D4M1">Intro Express Review</td>
+  <td id="D5M1">Express TODO API Review</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2">Veteran's Day</td>
   <td id="D2M2">Javascript Review</td>
   <td id="D3M2">The Net and HTTP Modules</td>
-  <td id="D4M2">Mongoose Intro</td>
-  <td id="D5M2">Mongoose Associations</td>
+  <td id="D4M2">NPM</td>
+  <td id="D5M2">TBD</td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3">Veteran's Day</td>
   <td id="D2M3">Node.js and Modules / Linked Lists</td>
   <td id="D3M3">NPM / <a href="https://git.generalassemb.ly/SEI-SF/intro-to-express">Express Intro</a> & <a href="https://git.generalassemb.ly/SEI-SF/intro-to-express-lab">Lab</a></td>
-  <td id="D4M3">Book App pt. 1</td>
-  <td id="D5M3">Book App pt. 2</td>
+	<td id="D4M3">Middleware & <a href="https://git.generalassemb.ly/SEI-SF/express-todo-api">Express TODO API</a></td>
+  <td id="D5M3">TBD</td>
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D1HW">Veteran's Day</td>
   <td id="D2HW">Stream Adventure</td>
   <td id="D3HW"><a href="https://git.generalassemb.ly/SEI-SF/intro-to-express-lab">Express Intro Lab</a></td>
-  <td id="D4HW">Book App pt. 1</td>
-  <td id="D5HW">Book App pt. 2</td>
+  <td id="D4HW"><a href="https://git.generalassemb.ly/SEI-SF/express-todo-api">Express TODO API</a></td>
+  <td id="D5HW">TBD</td>
   </tr></tbody></table>
 
 
