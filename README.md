@@ -510,7 +510,7 @@
   <td id="D2M3">Node.js and Modules / Linked Lists</td>
   <td id="D3M3">NPM / <a href="https://git.generalassemb.ly/SEI-SF/intro-to-express">Express Intro</a> & <a href="https://git.generalassemb.ly/SEI-SF/intro-to-express-lab">Lab</a></td>
 	<td id="D4M3">Middleware & <a href="https://git.generalassemb.ly/SEI-SF/express-todo-api">Express TODO API</a></td>
-	<td id="D5M3"><a href="https://git.generalassemb.ly/SEI-SF/mongoose-book-app">Mongoose Book App</a> & Mock Networking Event (3:30pm)</td>
+	<td id="D5M3"><a href="https://git.generalassemb.ly/SEI-SF/mongoose-vampires">Mongoose Vampires</a> & Mock Networking Event (3:30pm)</td>
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
@@ -518,7 +518,7 @@
   <td id="D2HW">Stream Adventure</td>
   <td id="D3HW"><a href="https://git.generalassemb.ly/SEI-SF/intro-to-express-lab">Express Intro Lab</a></td>
   <td id="D4HW"><a href="https://git.generalassemb.ly/SEI-SF/express-todo-api">Express TODO API</a></td>
-  <td id="D5HW">TBD</td>
+  <td id="D5HW"><a href="https://git.generalassemb.ly/SEI-SF/mongoose-book-app">Mongoose Book App</a></td>
   </tr></tbody></table>
 
 
@@ -535,9 +535,14 @@
   <tbody>
     <tr>
       <td>Nov. 13</td>
-      <td>Express Intro Lab</td>
+      <td><a href="https://git.generalassemb.ly/SEI-SF/intro-to-express-lab">Express Intro Lab</a></td>
       <td>Dec. 1</td>
     </tr>
+	  <tr>
+			<td>Nov. 15</td>
+			<td><a href="https://git.generalassemb.ly/SEI-SF/mongoose-book-app">Mongoose Book App</a></td>
+			<td>Dec. 1</td>
+	  </tr>
   </tbody>
 </table>
 
