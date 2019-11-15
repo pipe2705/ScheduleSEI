@@ -502,7 +502,7 @@
   <td id="D2M2">Javascript Review</td>
   <td id="D3M2">The Net and HTTP Modules</td>
   <td id="D4M2">NPM</td>
-  <td id="D5M2">TBD</td>
+	<td id="D5M2"><a href="https://git.generalassemb.ly/SEI-SF/mongodb-intro">Intro to MongoDB</a> & <a href="https://git.generalassemb.ly/SEI-SF/mongoose-intro">Mongoose</a></td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
