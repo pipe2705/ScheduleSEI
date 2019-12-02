@@ -286,7 +286,7 @@
   <td id="D2M3">React Todo Walkthrough</td>
   <td id="D3M3">Mini Project</td>
   <td id="D4M3">Mini Project</td>
-  <td id="D5M3">Mini Project && Presentations / Wayfarer Intro</td>
+  <td id="D5M3">Mini Project Expo / Wayfarer Intro</td>
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
