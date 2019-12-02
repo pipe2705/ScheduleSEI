@@ -198,6 +198,13 @@
 <h2>Big Holiday Break Here: Dec. 21 - Jan. 1</h2>
 <hr />
 
+
+-->
+
+## Unit 3
+<p>In this unit we'll learn one of the most popular frontend frameworks, <strong>React</strong>. Demand for React skills is high and for good reason. It helps create scalable, interactive frontends and provides a foundation in framework development that you can use. We'll start at the beginning with React at its most basic, build up to using <strong>React + APIs</strong> (external and our own), and finish with <strong>authenticating users</strong> (think Login/Sign Up). By the end of this unit you'll have more than one true fullstack apps for your portfolio. Have fun!</p>
+
+
 ## Week 10
 **Dates:** Dec. 16 - 20
 <table>
@@ -212,43 +219,35 @@
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1M1"></td>
-  <td id="D2M1"></td>
-  <td id="D3M1"></td>
-  <td id="D4M1"></td>
-  <td id="D5M1"></td>
+  <td id="D1M1">SEI/UXDI Collabathon</td>
+  <td id="D2M1">SEI/UXDI Collabathon</td>
+  <td id="D3M1">Outcomes</td>
+  <td id="D4M1">{{ HOLD }}</td>
+  <td id="D5M1">Project 3: Wayfarer</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M2"></td>
-  <td id="D2M2"></td>
-  <td id="D3M2"></td>
-  <td id="D4M2"></td>
-  <td id="D5M2"></td>
+  <td id="D1M2">SEI/UXDI Collabathon</td>
+  <td id="D2M2">SEI/UXDI Collabathon</td>
+  <td id="D3M2">Project 3: Wayfarer</td>
+  <td id="D4M2">Project 3: Wayfarer</td>
+  <td id="D5M2">Project 3: Wayfarer</td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M3"></td>
-  <td id="D2M3"></td>
-  <td id="D3M3"></td>
-  <td id="D4M3"></td>
-  <td id="D5M3"></td>
+  <td id="D1M3">SEI/UXDI Collabathon</td>
+  <td id="D2M3">SEI/UXDI Collabathon</td>
+  <td id="D3M3">Project 3: Wayfarer</td>
+  <td id="D4M3">Project 3: Wayfarer</td>
+  <td id="D5M3">Project 3: Presentations</td>
   </tr>
 
-  <tr><td><strong>M4</strong></td>
-  <td id="D1M4"></td>
-  <td id="D2M4"></td>
-  <td id="D3M4"></td>
-  <td id="D4M4"></td>
-  <td id="D5M4"></td>
-  </tr>
-
-  <tr><td><strong>Labs</strong></td>
-  <td id="D1HW"></td>
-  <td id="D2HW"></td>
-  <td id="D3HW"></td>
-  <td id="D4HW"></td>
-  <td id="D5HW"></td>
+  <tr><td><strong>Extra Reps</strong></td>
+  <td id="D1HW">SEI/UXDI Collabathon</td>
+  <td id="D2HW">SEI/UXDI Collabathon</td>
+  <td id="D3HW">Project 3: Wayfarer</td>
+  <td id="D4HW">Project 3: Wayfarer</td>
+  <td id="D5HW">Happy Holidays!</td>
   </tr></tbody></table>
 
 
@@ -267,45 +266,36 @@
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1M1"></td>
-  <td id="D2M1"></td>
-  <td id="D3M1"></td>
-  <td id="D4M1"></td>
-  <td id="D5M1"></td>
+  <td id="D1M1">Review GeoQuakes</td>
+  <td id="D2M1">Code Challenge</td>
+  <td id="D3M1">React Todo Backend</td>
+  <td id="D4M1">{{ Hold for CS Topic }}</td>
+  <td id="D5M1">Auth /w JWT: Part 1</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M2"></td>
-  <td id="D2M2"></td>
-  <td id="D3M2"></td>
-  <td id="D4M2"></td>
-  <td id="D5M2"></td>
+  <td id="D1M2">{{ Hold for CS Topic }}</td>
+  <td id="D2M2">React Todo Walkthrough</td>
+  <td id="D3M2">React Todo Backend</td>
+  <td id="D4M2">Auth /w JWT: Part 2</td>
+  <td id="D5M2">Auth /w JWT: Part 2</td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M3"></td>
-  <td id="D2M3"></td>
-  <td id="D3M3"></td>
-  <td id="D4M3"></td>
-  <td id="D5M3"></td>
+  <td id="D1M3">Realtime with Socket.io / Ugly Chat</td>
+  <td id="D2M3">React Todo Walkthrough</td>
+  <td id="D3M3">Mini Project</td>
+  <td id="D4M3">Mini Project</td>
+  <td id="D5M3">Mini Project && Presentations / Wayfarer Intro</td>
   </tr>
 
-  <tr><td><strong>M4</strong></td>
-  <td id="D1M4"></td>
-  <td id="D2M4"></td>
-  <td id="D3M4"></td>
-  <td id="D4M4"></td>
-  <td id="D5M4"></td>
-  </tr>
-
-  <tr><td><strong>Labs</strong></td>
-  <td id="D1HW"></td>
-  <td id="D2HW"></td>
-  <td id="D3HW"></td>
-  <td id="D4HW"></td>
-  <td id="D5HW"></td>
+  <tr><td><strong>Extra Reps</strong></td>
+  <td id="D1HW">Ugly Chat Lab</td>
+  <td id="D2HW">TODO Walkthrough (Bonus)</td>
+  <td id="D3HW">Mini Project</td>
+  <td id="D4HW">Mini Project</td>
+  <td id="D5HW">{{ HOLD }}</td>
   </tr></tbody></table>
-
 
 
 ## Week 8
@@ -322,45 +312,41 @@
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1M1"></td>
-  <td id="D2M1"></td>
-  <td id="D3M1"></td>
-  <td id="D4M1"></td>
-  <td id="D5M1"></td>
+  <td id="D1M1">Project 2</td>
+  <td id="D2M1">Project 2 Presentations</td>
+  <td id="D3M1">Code Challenge (45 min)</td>  
+  <td id="D4M1">Review</td>
+  <td id="D5M1">Review</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M2"></td>
-  <td id="D2M2"></td>
-  <td id="D3M2"></td>
-  <td id="D4M2"></td>
-  <td id="D5M2"></td>
+  <td id="D1M2">Project 2</td>
+  <td id="D2M2">Project 2 Presentations</td>
+  <td id="D3M2">React Intro</td>
+  <td id="D4M2">React State and Props</td>
+  <td id="D5M2">React Component Lifecycle</td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M3"></td>
-  <td id="D2M3"></td>
-  <td id="D3M3"></td>
-  <td id="D4M3"></td>
-  <td id="D5M3"></td>
+  <td id="D1M3">Project 2</td>
+  <td id="D2M3">{{ HOLD Promises, Async/Await, and Fetch }}</td>
+  <td id="D3M3">JSX / React Floorplan</td>
+  <td id="D4M3">React Counters</td>
+  <td id="D5M3">React Router / Geoquakes Lab</td>
   </tr>
 
-  <tr><td><strong>M4</strong></td>
-  <td id="D1M4"></td>
-  <td id="D2M4"></td>
-  <td id="D3M4"></td>
-  <td id="D4M4"></td>
-  <td id="D5M4"></td>
-  </tr>
-
-  <tr><td><strong>Labs</strong></td>
-  <td id="D1HW"></td>
-  <td id="D2HW"></td>
-  <td id="D3HW"></td>
-  <td id="D4HW"></td>
-  <td id="D5HW"></td>
+  <tr><td><strong>Extra Reps</strong></td>
+  <td id="D1HW">Project 2</td>
+  <td id="D2HW">Official React Tutorial</td>
+  <td id="D3HW">React Monument Refactor</td>
+  <td id="D4HW">React "Students" Lab</td>
+  <td id="D5HW">React Geoquakes Lab</td>
   </tr></tbody></table>
 
+
+
+## Unit 2
+<p>In this unit we'll move beyond working exclusively in the browser and start to investigate <strong>full stack web development</strong>. We're going to build web apps, interact with APIs, and broaden our horizons with <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MongoDB</strong>.</p>
 
 
 ## Week 7
@@ -377,40 +363,32 @@
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1M1"></td>
-  <td id="D2M1"></td>
+  <td id="D1M1">Project 2</td>
+  <td id="D2M1">Project 2</td>
   <td id="D3M1">Holiday 🦃</td>
   <td id="D4M1">Holiday 🦃</td>
   <td id="D5M1">Holiday 🦃</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M2"></td>
-  <td id="D2M2"></td>
+  <td id="D1M2">Project 2</td>
+  <td id="D2M2">Project 2</td>
   <td id="D3M2">Holiday 🦃</td>
   <td id="D4M2">Holiday 🦃</td>
   <td id="D5M2">Holiday 🦃</td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M3"></td>
-  <td id="D2M3"></td>
+  <td id="D1M3">Project 2</td>
+  <td id="D2M3">Project 2</td>
   <td id="D3M3">Holiday 🦃</td>
   <td id="D4M3">Holiday 🦃</td>
   <td id="D5M3">Holiday 🦃</td>
   </tr>
 
-  <tr><td><strong>M4</strong></td>
-  <td id="D1M4"></td>
-  <td id="D2M4"></td>
-  <td id="D3M4">Holiday 🦃</td>
-  <td id="D4M4">Holiday 🦃</td>
-  <td id="D5M4">Holiday 🦃</td>
-  </tr>
-
-  <tr><td><strong>Labs</strong></td>
-  <td id="D1HW"></td>
-  <td id="D2HW"></td>
+  <tr><td><strong>Extra Reps</strong></td>
+  <td id="D1HW">Project 2</td>
+  <td id="D2HW">Project 2</td>
   <td id="D3HW">Holiday 🦃</td>
   <td id="D4HW">Holiday 🦃</td>
   <td id="D5HW">Holiday 🦃</td>
@@ -432,49 +410,37 @@
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1M1"></td>
-  <td id="D2M1"></td>
-  <td id="D3M1"></td>
-  <td id="D4M1"></td>
-  <td id="D5M1"></td>
+  <td id="D1M1">Q&A Review / Mid Course Survey</td>
+  <td id="D2M1">SQL + CRUD</td>
+  <td id="D3M1">Outcomes</td>
+  <td id="D4M1">SQL Books: Part 1</td>
+  <td id="D5M1">Project 2</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M2"></td>
-  <td id="D2M2"></td>
-  <td id="D3M2"></td>
-  <td id="D4M2"></td>
-  <td id="D5M2"></td>
+  <td id="D1M2">Intro to SQL</td>
+  <td id="D2M2">SQL + Express</td>
+  <td id="D3M2">SQL: Many-to-Many Relationships</td>
+  <td id="D4M2">SQL Books: Part 1</td>
+  <td id="D5M2">SQL Books: Part 2</td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M3"></td>
-  <td id="D2M3"></td>
-  <td id="D3M3"></td>
-  <td id="D4M3"></td>
-  <td id="D5M3"></td>
+  <td id="D1M3">Intro to SQL / <a href="https://git.generalassemb.ly/SEI-SF/sql-lab">SQL Lab</a></td>
+  <td id="D2M3">SQL + Express</td>
+  <td id="D3M3">SQL: Many-to-Many Relationships / Callback Functions</td>
+  <td id="D4M3">SQL Books Lab / Project 2</td>
+  <td id="D5M3">SQL Books: Part 2</td>
   </tr>
 
-  <tr><td><strong>M4</strong></td>
-  <td id="D1M4"></td>
-  <td id="D2M4"></td>
-  <td id="D3M4"></td>
-  <td id="D4M4"></td>
-  <td id="D5M4"></td>
-  </tr>
-
-  <tr><td><strong>Labs</strong></td>
-  <td id="D1HW"></td>
-  <td id="D2HW"></td>
-  <td id="D3HW"></td>
-  <td id="D4HW"></td>
-  <td id="D5HW"></td>
+  <tr><td><strong>Extra Reps</strong></td>
+  <td id="D1HW"><a href="https://git.generalassemb.ly/SEI-SF/sql-homework">SQL Homework</a></td>
+  <td id="D2HW">SQL CRUD Lab & Project Prep: Build another Express / SQL App</td>
+  <td id="D3HW">Callback Functions Lab</td>
+  <td id="D4HW">SQL Books Lab / Project 2</td>
+  <td id="D5HW">SQL Books Lab: Part 2 / Project 2</td>
   </tr></tbody></table>
 
--->
-
-## Unit 2
-<p>In this unit we'll move beyond working exclusively in the browser and start to investigate <strong>full stack web development</strong>. We're going to build web apps, interact with APIs, and broaden our horizons with <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MongoDB</strong>.</p>
 
 ## Week 5
 **Dates:** Nov. 11 - 15
@@ -543,6 +509,11 @@
 			<td><a href="https://git.generalassemb.ly/SEI-SF/mongoose-book-app">Mongoose Book App</a></td>
 			<td>Dec. 1</td>
 	  </tr>
+    <tr>
+      <td>Nov. 18</td>
+      <td><a href="https://git.generalassemb.ly/SEI-SF/sql-homework">SQL Homework</a></td>
+      <td>Dec. 1</td>
+    </tr>
   </tbody>
 </table>
 
