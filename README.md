@@ -222,7 +222,7 @@
   <td id="D1M1">SEI/UXDI Collabathon</td>
   <td id="D2M1">SEI/UXDI Collabathon</td>
   <td id="D3M1">Outcomes</td>
-  <td id="D4M1">{{ HOLD }}</td>
+  <td id="D4M1"><strong>{{ HOLD for CS }}</strong></td>
   <td id="D5M1">Project 3: Wayfarer</td>
   </tr>
 
@@ -268,13 +268,13 @@
 <tr><td><strong>Morning Exercise</strong></td>
   <td id="D1M1">Review GeoQuakes</td>
   <td id="D2M1">Code Challenge</td>
-  <td id="D3M1">React Todo Backend</td>
-  <td id="D4M1">{{ Hold for CS Topic }}</td>
+  <td id="D3M1">Outcomes</td>
+  <td id="D4M1"><strong>{{ Hold for CS }}</strong></td>
   <td id="D5M1">Auth /w JWT: Part 1</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M2">{{ Hold for CS Topic }}</td>
+  <td id="D1M2"><strong>{{ Hold for CS }}</strong></td>
   <td id="D2M2">React Todo Walkthrough</td>
   <td id="D3M2">React Todo Backend</td>
   <td id="D4M2">Auth /w JWT: Part 2</td>
@@ -284,7 +284,7 @@
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3">Realtime with Socket.io / Ugly Chat</td>
   <td id="D2M3">React Todo Walkthrough</td>
-  <td id="D3M3">Mini Project</td>
+  <td id="D3M3">Mini Project Intro</td>
   <td id="D4M3">Mini Project</td>
   <td id="D5M3">Mini Project Expo / Wayfarer Intro</td>
   </tr>
@@ -294,7 +294,7 @@
   <td id="D2HW">TODO Walkthrough (Bonus)</td>
   <td id="D3HW">Mini Project</td>
   <td id="D4HW">Mini Project</td>
-  <td id="D5HW">{{ HOLD }}</td>
+  <td id="D5HW"><strong>{{ HOLD }}</strong></td>
   </tr></tbody></table>
 
 
@@ -314,7 +314,7 @@
 <tr><td><strong>Morning Exercise</strong></td>
   <td id="D1M1">Project 2</td>
   <td id="D2M1">Project 2 Presentations</td>
-  <td id="D3M1">Code Challenge (45 min)</td>  
+  <td id="D3M1">Outcomes</td>  
   <td id="D4M1">Review</td>
   <td id="D5M1">Review</td>
   </tr>
@@ -329,7 +329,7 @@
 
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3">Project 2</td>
-  <td id="D2M3">{{ HOLD Promises, Async/Await, and Fetch }}</td>
+  <td id="D2M3"><strong>{{ HOLD Promises, Async/Await, and Fetch? }}</strong></td>
   <td id="D3M3">JSX / React Floorplan</td>
   <td id="D4M3">React Counters</td>
   <td id="D5M3">React Router / Geoquakes Lab</td>
@@ -343,6 +343,19 @@
   <td id="D5HW">React Geoquakes Lab</td>
   </tr></tbody></table>
 
+### Unit 3 - Deliverables
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<table>
+  <thead>
+    <tr>
+      <td><b>Date Assigned</b></td>
+      <td><b>Deliverable</b></td>
+      <td><b>Final Due Date</b></td>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
 
 
 ## Unit 2
