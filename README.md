@@ -342,7 +342,7 @@
   <td id="D2HW"><a href="https://reactjs.org/tutorial/tutorial.html">Official React Tutorial</a></td>
   <td id="D3HW"><a href="https://git.generalassemb.ly/SEI-SF/monument-react-refactor">React Monument Refactor</a></td>
   <td id="D4HW"><a href="https://git.generalassemb.ly/SEI-SF/React-Students-Lab">React "Students" Lab</a></td>
-  <td id="D5HW"><a href="https://git.generalassemb.ly/SEI-SF/react-geoquakes">React Geoquakes Lab</a></td>
+  <td id="D5HW"><a href="https://git.generalassemb.ly/SEI-SF/react-geoquakes">Geoquakes Weekend Lab</a></td>
   </tr></tbody></table>
 
 ### Unit 3 - Deliverables
