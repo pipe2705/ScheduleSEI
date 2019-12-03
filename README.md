@@ -222,8 +222,8 @@
   <td id="D1M1">SEI/UXDI Collabathon</td>
   <td id="D2M1">SEI/UXDI Collabathon</td>
   <td id="D3M1">Outcomes</td>
-  <td id="D4M1"><strong>{{ HOLD for CS }}</strong></td>
-  <td id="D5M1">Project 3: Wayfarer</td>
+  <td id="D4M1">Algorithms: Insertion Sort</td>
+  <td id="D5M1">Algorithms: Merge Sort (Hard)</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
@@ -266,15 +266,15 @@
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1M1">Review GeoQuakes</td>
-  <td id="D2M1">Code Challenge</td>
+  <td id="D1M1">Review GeoQuakes / Functional Programming: Closures</td>
+  <td id="D2M1">Review / Functional Programming: Map, Filter, Reduce</td>
   <td id="D3M1">Outcomes</td>
-  <td id="D4M1"><strong>{{ Hold for CS }}</strong></td>
-  <td id="D5M1">Auth /w JWT: Part 2</td>
+  <td id="D4M1">Big 0 Notation</td>
+  <td id="D5M1">Data Structures: Stacks & Queues</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M2"><strong>{{ Hold for CS }}</strong></td>
+  <td id="D1M2">Realtime with Socket.io / Ugly Chat Lab</td>
   <td id="D2M2">React Todo Walkthrough</td>
   <td id="D3M2">React Todo Backend</td>
   <td id="D5M2">Auth /w JWT: Part 1</td>
@@ -282,7 +282,7 @@
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M3">Realtime with Socket.io / Ugly Chat</td>
+  <td id="D1M3">Ugly Chat Lab</td>
   <td id="D2M3">React Todo Walkthrough</td>
   <td id="D3M3">Mini Project Intro</td>
   <td id="D4M3">Mini Project</td>
@@ -315,8 +315,8 @@
   <td id="D1M1">Project 2</td>
   <td id="D2M1">Project 2 Presentations</td>
   <td id="D3M1">Outcomes</td>  
-  <td id="D4M1">Review</td>
-  <td id="D5M1">{{ Hold for CS }}</td>
+  <td id="D4M1">JS Async/Await</td>
+  <td id="D5M1">JS Generators</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
@@ -329,7 +329,7 @@
 
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3">Project 2</td>
-  <td id="D2M3"><strong>{{ Hold Promises, Async/Await, and Fetch? }}</strong></td>
+  <td id="D2M3">JS Promises</td>
   <td id="D3M3">JSX / React Floorplan</td>
   <td id="D4M3">React Counters</td>
   <td id="D5M3">React Router / Geoquakes Lab</td>
