@@ -118,7 +118,7 @@
 <tr><td><strong>Morning Exercise</strong></td>
   <td id="D1M1"></td>
   <td id="D2M1"></td>
-  <td id="D3M1"></td>
+  <td id="D3M1">Outcomes</td>
   <td id="D4M1"></td>
   <td id="D5M1"></td>
   </tr>
@@ -166,7 +166,7 @@
   <td id="D1M1">Holiday 🎉</td>
   <td id="D2M1">Holiday 🎉</td>
   <td id="D3M1">Holiday 🎉</td>
-  <td id="D4M1"></td>
+  <td id="D4M1">Rubiks & Challenge Review</td>
   <td id="D5M1"></td>
   </tr>
 
@@ -199,10 +199,7 @@
 <hr />
 
 
--->
 
-## Unit 3
-<p>In this unit we'll learn one of the most popular frontend frameworks, <strong>React</strong>. Demand for React skills is high and for good reason. It helps create scalable, interactive frontends and provides a foundation in framework development that you can use. We'll start at the beginning with React at its most basic, build up to using <strong>React + APIs</strong> (external and our own), and finish with <strong>authenticating users</strong> (think Login/Sign Up). By the end of this unit you'll have more than one true fullstack apps for your portfolio. Have fun!</p>
 
 
 ## Week 10
@@ -297,6 +294,11 @@
   <td id="D5HW"><strong>{{ Hold }}</strong></td>
   </tr></tbody></table>
 
+-->
+
+## Unit 3
+<p>In this unit we'll learn one of the most popular frontend frameworks, <strong>React</strong>. Demand for React skills is high and for good reason. It helps create scalable, interactive frontends and provides a foundation in framework development that you can use. We'll start at the beginning with React at its most basic, build up to using <strong>React + APIs</strong> (external and our own), and finish with <strong>authenticating users</strong> (think Login/Sign Up). By the end of this unit you'll have more than one true fullstack apps for your portfolio. Have fun!</p>
+
 
 ## Week 8
 **Dates:** Dec. 2 - 6
@@ -322,25 +324,25 @@
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2">Project 2</td>
   <td id="D2M2">Project 2 Presentations</td>
-  <td id="D3M2">React Intro</td>
-  <td id="D4M2">React State and Props</td>
-  <td id="D5M2">React Component Lifecycle</td>
+  <td id="D3M2"><a jref="https://git.generalassemb.ly/SEI-SF/react-intro">React Intro</a></td>
+  <td id="D4M2"><a href="https://git.generalassemb.ly/SEI-SF/react-state-and-props">React State and Props</a></td>
+  <td id="D5M2"><a href="https://git.generalassemb.ly/SEI-SF/react-component-lifecycle">React Component Lifecycle</a></td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3">Project 2</td>
-  <td id="D2M3">JS Promises</td>
-  <td id="D3M3">JSX / React Floorplan</td>
-  <td id="D4M3">React Counters</td>
-  <td id="D5M3">React Router / Geoquakes Lab</td>
+  <td id="D2M3"><a href="https://git.generalassemb.ly/SEI-SF/JS-Promises">JS Promises</a></td>
+  <td id="D3M3"><a href="https://git.generalassemb.ly/SEI-SF/JSX">JSX</a> / <a href="https://git.generalassemb.ly/SEI-SF/React-Floorplan-Lab">React Floorplan</a></td>
+  <td id="D4M3">React Counters (Codealong)</td>
+  <td id="D5M3"><a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a> / Geoquakes Lab</td>
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D1HW">Project 2</td>
-  <td id="D2HW">Official React Tutorial</td>
-  <td id="D3HW">React Monument Refactor</td>
-  <td id="D4HW">React "Students" Lab</td>
-  <td id="D5HW">React Geoquakes Lab</td>
+  <td id="D2HW"><a href="https://reactjs.org/tutorial/tutorial.html">Official React Tutorial</a></td>
+  <td id="D3HW"><a href="https://git.generalassemb.ly/SEI-SF/monument-react-refactor">React Monument Refactor</a></td>
+  <td id="D4HW"><a href="https://git.generalassemb.ly/SEI-SF/React-Students-Lab">React "Students" Lab</a></td>
+  <td id="D5HW"><a href="https://git.generalassemb.ly/SEI-SF/react-geoquakes">React Geoquakes Lab</a></td>
   </tr></tbody></table>
 
 ### Unit 3 - Deliverables
