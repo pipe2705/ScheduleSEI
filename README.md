@@ -270,15 +270,15 @@
   <td id="D2M1">Code Challenge</td>
   <td id="D3M1">Outcomes</td>
   <td id="D4M1"><strong>{{ Hold for CS }}</strong></td>
-  <td id="D5M1">Auth /w JWT: Part 1</td>
+  <td id="D5M1">Auth /w JWT: Part 2</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2"><strong>{{ Hold for CS }}</strong></td>
   <td id="D2M2">React Todo Walkthrough</td>
   <td id="D3M2">React Todo Backend</td>
+  <td id="D5M2">Auth /w JWT: Part 1</td>
   <td id="D4M2">Auth /w JWT: Part 2</td>
-  <td id="D5M2">Auth /w JWT: Part 2</td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
@@ -294,7 +294,7 @@
   <td id="D2HW">TODO Walkthrough (Bonus)</td>
   <td id="D3HW">Mini Project</td>
   <td id="D4HW">Mini Project</td>
-  <td id="D5HW"><strong>{{ HOLD }}</strong></td>
+  <td id="D5HW"><strong>{{ Hold }}</strong></td>
   </tr></tbody></table>
 
 
@@ -316,7 +316,7 @@
   <td id="D2M1">Project 2 Presentations</td>
   <td id="D3M1">Outcomes</td>  
   <td id="D4M1">Review</td>
-  <td id="D5M1">Review</td>
+  <td id="D5M1">{{ Hold for CS }}</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
@@ -329,7 +329,7 @@
 
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3">Project 2</td>
-  <td id="D2M3"><strong>{{ HOLD Promises, Async/Await, and Fetch? }}</strong></td>
+  <td id="D2M3"><strong>{{ Hold Promises, Async/Await, and Fetch? }}</strong></td>
   <td id="D3M3">JSX / React Floorplan</td>
   <td id="D4M3">React Counters</td>
   <td id="D5M3">React Router / Geoquakes Lab</td>
