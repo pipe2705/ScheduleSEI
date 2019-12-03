@@ -324,7 +324,7 @@
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2">Project 2</td>
   <td id="D2M2">Project 2 Presentations</td>
-  <td id="D3M2"><a jref="https://git.generalassemb.ly/SEI-SF/react-intro">React Intro</a></td>
+  <td id="D3M2"><a href="https://git.generalassemb.ly/SEI-SF/react-intro">React Intro</a></td>
   <td id="D4M2"><a href="https://git.generalassemb.ly/SEI-SF/react-state-and-props">React State and Props</a></td>
   <td id="D5M2"><a href="https://git.generalassemb.ly/SEI-SF/react-component-lifecycle">React Component Lifecycle</a></td>
   </tr>
