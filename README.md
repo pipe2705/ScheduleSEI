@@ -317,7 +317,7 @@
   <td id="D1M1">Project 2</td>
   <td id="D2M1">Project 2 Presentations</td>
   <td id="D3M1">Outcomes</td>  
-  <td id="D4M1">JS Async/Await</td>
+  <td id="D4M1">Review / Intro to Fetch</td>
   <td id="D5M1">JS Generators</td>
   </tr>
 
@@ -341,7 +341,7 @@
   <td id="D1HW">Project 2</td>
   <td id="D2HW"><a href="https://reactjs.org/tutorial/tutorial.html">Official React Tutorial</a></td>
   <td id="D3HW"><a href="https://git.generalassemb.ly/SEI-SF/monument-react-refactor">React Monument Refactor</a></td>
-  <td id="D4HW"><a href="https://git.generalassemb.ly/SEI-SF/React-Students-Lab">React "Students" Lab</a></td>
+  <td id="D4HW"><a href="https://git.generalassemb.ly/SEI-SF/React-Students-Lab">React "Students" Lab</a> & <a href="https://git.generalassemb.ly/SEI-SF/OMDb-API">Fetch API</a></td>
   <td id="D5HW"><a href="https://git.generalassemb.ly/SEI-SF/react-geoquakes">Geoquakes Weekend Lab</a></td>
   </tr></tbody></table>
 
@@ -356,6 +356,11 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+	    <td>Dec 4</td>
+	    <td><a href="https://git.generalassemb.ly/SEI-SF/OMDb-API">OMDb API</a></td>
+	    <td>Dec 19</td>
+    </tr>
   </tbody>
 </table>
 
