@@ -250,6 +250,7 @@
 
 
 ## Week 9
+<a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a> / 
 **Dates:** Dec. 9 - 13
 <table>
 <thead>
@@ -334,7 +335,7 @@
   <td id="D2M3"><a href="https://git.generalassemb.ly/SEI-SF/JS-Promises">JS Promises</a></td>
   <td id="D3M3"><a href="https://git.generalassemb.ly/SEI-SF/JSX">JSX</a> / <a href="https://git.generalassemb.ly/SEI-SF/React-Floorplan-Lab">React Floorplan</a></td>
   <td id="D4M3">React Counters (Codealong)</td>
-  <td id="D5M3"><a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a> / <a href="https://git.generalassemb.ly/SEI-SF/react-geoquakes">Geoquakes Weekend Lab</a></td>
+  <td id="D5M3"><a href="https://git.generalassemb.ly/SEI-SF/react-component-lifecycle">React Component Lifecycle</a> / <a href="https://git.generalassemb.ly/SEI-SF/react-geoquakes">Geoquakes Weekend Lab</a></td>
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
