@@ -362,6 +362,16 @@
 	    <td><a href="https://git.generalassemb.ly/SEI-SF/OMDb-API">OMDb API</a></td>
 	    <td>Dec 19</td>
     </tr>
+    <tr>
+	    <td>Dec 6</td>
+	    <td>FizzBuzz Solution with Generators</td>
+	    <td>Dec 19</td>
+    </tr>
+    <tr>
+	    <td>Dec 6</td>
+	    <td>Geoquakes Lab</td>
+	    <td>Dec 19</td>
+    </tr>
   </tbody>
 </table>
 
