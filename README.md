@@ -373,6 +373,11 @@
 	    <td>Geoquakes Lab</td>
 	    <td>Dec 19</td>
     </tr>
+    <tr>
+	    <td>Dec 9</td>
+	    <td>Encypher/Decypher with Closures</td>
+	    <td>Dec 19</td>
+    </tr>
   </tbody>
 </table>
 
