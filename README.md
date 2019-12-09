@@ -286,7 +286,7 @@
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M3">Realtime with Socket.io / Ugly Chat Lab</td>
+	<td id="D1M3"><a href="https://git.generalassemb.ly/SEI-SF/Realtime-with-Socket-IO">Realtime with Socket.io</a> / <a href="https://git.generalassemb.ly/SEI-SF/Ugly-Chat">Ugly Chat Lab</a></td>
   <td id="D2M3">Functional Programming: Map, Filter, Reduce</td>
   <td id="D3M3">React Todo Walkthrough</td>
   <td id="D4M3">CSS Warmup / Styling React Components</td>
@@ -294,7 +294,7 @@
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
-  <td id="D1HW">Ugly Chat Lab</td>
+	<td id="D1HW"><a href="https://git.generalassemb.ly/SEI-SF/Ugly-Chat">Ugly Chat Lab</a> / <a href="https://git.generalassemb.ly/SEI-SF/react-giphy-lab">React Giphy Lab</a></td>
   <td id="D2HW"></td>
   <td id="D3HW">React Todo Walkthrough (Bonus)</td>
   <td id="D4HW"></td>
