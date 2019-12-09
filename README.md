@@ -248,9 +248,15 @@
   </tr></tbody></table>
 
 
+-->
+
+## Unit 3
+<p>In this unit we'll learn one of the most popular frontend frameworks, <strong>React</strong>. Demand for React skills is high and for good reason. It helps create scalable, interactive frontends and provides a foundation in framework development that you can use. We'll start at the beginning with React at its most basic, build up to using <strong>React + APIs</strong> (external and our own), and finish with <strong>authenticating users</strong> (think Login/Sign Up). By the end of this unit you'll have more than one true fullstack apps for your portfolio. Have fun!</p>
+
 
 ## Week 9
-<a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a> / 
+
+
 **Dates:** Dec. 9 - 13
 <table>
 <thead>
@@ -264,41 +270,36 @@
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1M1">Review GeoQuakes / Functional Programming: Closures</td>
-  <td id="D2M1">Review / Functional Programming: Map, Filter, Reduce</td>
+  <td id="D1M1">Review GeoQuakes</td>
+  <td id="D2M1">Review / <a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a></td>
   <td id="D3M1">Outcomes</td>
   <td id="D4M1">Big 0 Notation</td>
   <td id="D5M1">Data Structures: Stacks & Queues</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M2">Realtime with Socket.io / Ugly Chat Lab</td>
-  <td id="D2M2">React Todo Walkthrough</td>
-  <td id="D3M2">React Todo Backend</td>
-  <td id="D5M2">Auth /w JWT: Part 1</td>
-  <td id="D4M2">Auth /w JWT: Part 2</td>
+  <td id="D1M2">Functional Programming: Closures</td>
+  <td id="D2M2"><a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a> / React Router Lab</td>
+  <td id="D3M2">React Todo Walkthrough</td>
+  <td id="D5M2">React Todo Backend</td>
+  <td id="D4M2">User Auth</td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M3">Ugly Chat Lab</td>
-  <td id="D2M3">React Todo Walkthrough</td>
-  <td id="D3M3">Mini Project Intro</td>
-  <td id="D4M3">Mini Project</td>
-  <td id="D5M3">Mini Project Expo / Wayfarer Intro</td>
+  <td id="D1M3">Realtime with Socket.io / Ugly Chat Lab</td>
+  <td id="D2M3">Functional Programming: Map, Filter, Reduce</td>
+  <td id="D3M3">React Todo Walkthrough</td>
+  <td id="D4M3">CSS Warmup / Styling React Components</td>
+  <td id="D5M3">User Auth / Collabathon Intro / Project 3 Intro</td>
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D1HW">Ugly Chat Lab</td>
-  <td id="D2HW">TODO Walkthrough (Bonus)</td>
-  <td id="D3HW">Mini Project</td>
-  <td id="D4HW">Mini Project</td>
-  <td id="D5HW"><strong>{{ Hold }}</strong></td>
+  <td id="D2HW"></td>
+  <td id="D3HW">React Todo Walkthrough (Bonus)</td>
+  <td id="D4HW"></td>
+  <td id="D5HW">Project 3</td>
   </tr></tbody></table>
-
--->
-
-## Unit 3
-<p>In this unit we'll learn one of the most popular frontend frameworks, <strong>React</strong>. Demand for React skills is high and for good reason. It helps create scalable, interactive frontends and provides a foundation in framework development that you can use. We'll start at the beginning with React at its most basic, build up to using <strong>React + APIs</strong> (external and our own), and finish with <strong>authenticating users</strong> (think Login/Sign Up). By the end of this unit you'll have more than one true fullstack apps for your portfolio. Have fun!</p>
 
 
 ## Week 8
