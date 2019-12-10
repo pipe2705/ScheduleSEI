@@ -271,7 +271,7 @@
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
   <td id="D1M1">Review GeoQuakes</td>
-  <td id="D2M1">Review / <a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a></td>
+  <td id="D2M1">Review</td>
   <td id="D3M1">Outcomes</td>
   <td id="D4M1">Big 0 Notation</td>
   <td id="D5M1">Data Structures: Stacks & Queues</td>
@@ -279,7 +279,7 @@
 
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2">Functional Programming: Closures</td>
-  <td id="D2M2"><a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a> / React Router Lab</td>
+  <td id="D2M2"><a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a></td>
   <td id="D3M2">React Todo Walkthrough</td>
   <td id="D5M2">React Todo Backend</td>
   <td id="D4M2">User Auth</td>
