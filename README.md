@@ -280,7 +280,7 @@
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2">Functional Programming: Closures</td>
   <td id="D2M2"><a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a></td>
-  <td id="D3M2">React Todo Walkthrough</td>
+  <td id="D3M2">React Todo Intro (20 min) / SEI-5 Final Projects / React Todo Cont'd</td>
   <td id="D5M2">React Todo Backend</td>
   <td id="D4M2">User Auth</td>
   </tr>
@@ -295,9 +295,9 @@
 
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D1HW"><a href="https://git.generalassemb.ly/SEI-SF/Ugly-Chat">Ugly Chat Lab</a> / <a href="https://git.generalassemb.ly/SEI-SF/react-giphy-lab">React Giphy Lab</a></td>
-  <td id="D2HW"></td>
-  <td id="D3HW">React Todo Walkthrough (Bonus)</td>
-  <td id="D4HW"></td>
+  <td id="D2HW">Repeat Any Lab</td>
+  <td id="D3HW">Repeat React Todo </td>
+  <td id="D4HW">Repeat React Todo / Theme Your Todo App</td>
   <td id="D5HW">Project 3</td>
   </tr></tbody></table>
 
