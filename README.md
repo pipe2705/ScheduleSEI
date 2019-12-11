@@ -378,6 +378,11 @@
 	    <td>Encypher/Decypher with Closures</td>
 	    <td>Dec 19</td>
     </tr>
+    <tr>
+	    <td>Dec 10</td>
+	    <td>Artisanal Filter and Reduce Function</td>
+	    <td>Dec 19</td>
+    </tr>
   </tbody>
 </table>
 
