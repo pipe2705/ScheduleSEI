@@ -295,8 +295,8 @@
 
   <tr><td><strong>Extra Reps</strong></td>
   <td id="D1HW"><a href="https://git.generalassemb.ly/SEI-SF/Ugly-Chat">Ugly Chat Lab</a> / <a href="https://git.generalassemb.ly/SEI-SF/react-giphy-lab">React Giphy Lab</a></td>
-  <td id="D2HW">Repeat Any Lab</td>
-  <td id="D3HW">Repeat React Todo </td>
+  <td id="D2HW">Repeat React Counters</td>
+  <td id="D3HW">Repeat React Todo</td>
   <td id="D4HW">Repeat React Todo / Theme Your Todo App</td>
   <td id="D5HW">Project 3</td>
   </tr></tbody></table>
