@@ -280,7 +280,7 @@
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2">Functional Programming: Closures</td>
   <td id="D2M2"><a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a></td>
-  <td id="D3M2">React Todo Intro (20 min) / SEI-5 Final Projects / React Todo Cont'd</td>
+  <td id="D3M2"><a href="https://git.generalassemb.ly/SEI-SF/react_todo_walkthrough">React Todo Intro (20 min)</a> / SEI-5 Final Projects / <a href="https://git.generalassemb.ly/SEI-SF/react_todo_walkthrough">React Todo Cont'd</a></td>
   <td id="D5M2">React Todo Backend</td>
   <td id="D4M2">User Auth</td>
   </tr>
