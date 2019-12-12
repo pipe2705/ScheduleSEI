@@ -290,7 +290,7 @@
   <td id="D1M3"><a href="https://git.generalassemb.ly/SEI-SF/Realtime-with-Socket-IO">Realtime with Socket.io</a> / <a href="https://git.generalassemb.ly/SEI-SF/Ugly-Chat">Ugly Chat Lab</a></td>
   <td id="D2M3">Functional Programming: Map, Filter, Reduce</td>
   <td id="D3M3">React Todo Walkthrough</td>
-  <td id="D4M3">CSS Warmup / Styling React Components</td>
+  <td id="D4M3"><a href="https://git.generalassemb.ly/SEI-SF/profile-cards">CSS Warmup: Profile Cards</a> / Styling React Components</td>
   <td id="D5M3">User Auth / Collabathon Intro / Project 3 Intro</td>
   </tr>
 
