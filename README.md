@@ -274,7 +274,7 @@
   <td id="D1M1">Review GeoQuakes</td>
   <td id="D2M1">Review</td>
   <td id="D3M1">Outcomes</td>
-  <td id="D4M1">Intermedite JS</td>
+  <td id="D4M1">Intermediate JS: Spread Operator</td>
   <td id="D5M1">Data Structures: Stacks & Queues</td>
   </tr>
 
