@@ -195,7 +195,8 @@
   </tr></tbody></table>
 
 <hr />
-<h2>Big Holiday Break Here: Dec. 21 - Jan. 1</h2>
+<h2>
+	Holiday Break Here: Dec. 21 - Jan. 1</h2>
 <hr />
 
 
@@ -273,7 +274,7 @@
   <td id="D1M1">Review GeoQuakes</td>
   <td id="D2M1">Review</td>
   <td id="D3M1">Outcomes</td>
-  <td id="D4M1">Big 0 Notation</td>
+  <td id="D4M1">Intermedite JS</td>
   <td id="D5M1">Data Structures: Stacks & Queues</td>
   </tr>
 
@@ -281,7 +282,7 @@
   <td id="D1M2">Functional Programming: Closures</td>
   <td id="D2M2"><a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a></td>
   <td id="D3M2"><a href="https://git.generalassemb.ly/SEI-SF/react_todo_walkthrough">React Todo Intro (20 min)</a> / SEI-5 Final Projects / <a href="https://git.generalassemb.ly/SEI-SF/react_todo_walkthrough">React Todo Cont'd</a></td>
-  <td id="D5M2">React Todo Backend</td>
+  <td id="D5M2">Connecting React to a Backend</td>
   <td id="D4M2">User Auth</td>
   </tr>
 
