@@ -275,7 +275,7 @@
   <td id="D2M1">Review</td>
   <td id="D3M1">Outcomes</td>
   <td id="D4M1">Intermediate JS: Spread Operator</td>
-  <td id="D5M1">Data Structures: Stacks & Queues</td>
+  <td id="D5M1">Project 3 Intro</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
@@ -283,7 +283,7 @@
   <td id="D2M2"><a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a></td>
   <td id="D3M2"><a href="https://git.generalassemb.ly/SEI-SF/react_todo_walkthrough">React Todo Intro (20 min)</a> / SEI-5 Final Projects / <a href="https://git.generalassemb.ly/SEI-SF/react_todo_walkthrough">React Todo Cont'd</a></td>
   <td id="D5M2">Connecting React to a Backend</td>
-  <td id="D4M2">User Auth</td>
+  <td id="D4M2">Project 3</td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
@@ -291,7 +291,7 @@
   <td id="D2M3">Functional Programming: Map, Filter, Reduce</td>
   <td id="D3M3">React Todo Walkthrough</td>
   <td id="D4M3"><a href="https://git.generalassemb.ly/SEI-SF/profile-cards">CSS Warmup: Profile Cards</a> / Styling React Components</td>
-  <td id="D5M3">User Auth / Collabathon Intro / Project 3 Intro</td>
+  <td id="D5M3">Project 3</td>
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
@@ -366,7 +366,7 @@
     </tr>
     <tr>
 	    <td>Dec 6</td>
-	    <td>FizzBuzz Solution with Generators</td>
+	    <td><a href="https://git.generalassemb.ly/SEI-SF/intermediate-javascript">FizzBuzz Solution with Generators</a></td>
 	    <td>Dec 19</td>
     </tr>
     <tr>
@@ -376,12 +376,12 @@
     </tr>
     <tr>
 	    <td>Dec 9</td>
-	    <td>Encypher/Decypher with Closures</td>
+	    <td><a href="https://git.generalassemb.ly/SEI-SF/intermediate-javascript">Encypher/Decypher with Closures</a></td>
 	    <td>Dec 19</td>
     </tr>
     <tr>
 	    <td>Dec 10</td>
-	    <td>Artisanal Filter and Reduce Function</td>
+	    <td><a href="https://git.generalassemb.ly/SEI-SF/intermediate-javascript">Artisanal Filter and Reduce Function</a></td>
 	    <td>Dec 19</td>
     </tr>
   </tbody>
