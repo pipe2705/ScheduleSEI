@@ -384,6 +384,11 @@
 	    <td><a href="https://git.generalassemb.ly/SEI-SF/intermediate-javascript">Artisanal Filter and Reduce Function</a></td>
 	    <td>Dec 19</td>
     </tr>
+    <tr>
+	    <td>Dec 10</td>
+	    <td><a href="https://git.generalassemb.ly/SEI-SF/react_todo_walkthrough">Todo Walkthrough</a></td>
+	    <td>Dec 19</td>
+    </tr>
   </tbody>
 </table>
 
