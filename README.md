@@ -252,7 +252,7 @@
 -->
 
 ## Unit 3
-<p>In this unit we'll learn one of the most popular frontend frameworks, <strong>React</strong>. Demand for React skills is high and for good reason. It helps create scalable, interactive frontends and provides a foundation in framework development that you can use. We'll start at the beginning with React at its most basic, build up to using <strong>React + APIs</strong> (external and our own), and finish with <strong>authenticating users</strong> (think Login/Sign Up). By the end of this unit you'll have more than one true fullstack apps for your portfolio. Have fun!</p>
+<p>In this unit we'll learn one of the most popular frontend frameworks, <strong>React</strong>. Demand for React skills is high and for good reason. It helps create scalable, interactive frontends and provides a foundation in framework development that you can use. We'll start at the beginning with React at its most basic, build up to using <strong>React + APIs</strong> (external and our own). By the end of this unit you'll have more than one true fullstack apps for your portfolio. Have fun!</p>
 
 
 ## Week 9
