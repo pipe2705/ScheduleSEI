@@ -283,7 +283,7 @@
   <td id="D2M2"><a href="https://git.generalassemb.ly/SEI-SF/react-router-intro">React Router</a></td>
   <td id="D3M2"><a href="https://git.generalassemb.ly/SEI-SF/react_todo_walkthrough">React Todo Intro (20 min)</a> / SEI-5 Final Projects / <a href="https://git.generalassemb.ly/SEI-SF/react_todo_walkthrough">React Todo Cont'd</a></td>
   <td id="D5M2">Connecting React to a Backend</td>
-  <td id="D4M2">Project 3</td>
+	<td id="D4M2"><a href="https://git.generalassemb.ly/SEI-SF/project-3">Project 3</a></td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
@@ -291,7 +291,7 @@
   <td id="D2M3">Functional Programming: Map, Filter, Reduce</td>
   <td id="D3M3">React Todo Walkthrough</td>
   <td id="D4M3"><a href="https://git.generalassemb.ly/SEI-SF/profile-cards">CSS Warmup: Profile Cards</a> / Styling React Components</td>
-  <td id="D5M3">Project 3</td>
+  <td id="D5M3"><a href="https://git.generalassemb.ly/SEI-SF/project-3">Project 3</a></td>
   </tr>
 
   <tr><td><strong>Extra Reps</strong></td>
@@ -299,7 +299,7 @@
   <td id="D2HW">Repeat React Counters</td>
   <td id="D3HW">Repeat React Todo</td>
   <td id="D4HW">Repeat React Todo / Theme Your Todo App</td>
-  <td id="D5HW">Project 3</td>
+  <td id="D5HW"><a href="https://git.generalassemb.ly/SEI-SF/project-3">Project 3</a></td>
   </tr></tbody></table>
 
 
