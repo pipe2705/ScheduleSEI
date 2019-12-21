@@ -146,8 +146,6 @@
   <td id="D4HW"></td>
   <td id="D5HW"></td>
   </tr></tbody></table>
--->
-
 
 ## Week 12
 **Dates:** Dec. 23 - 27
