@@ -146,11 +146,11 @@
   <td id="D4HW"></td>
   <td id="D5HW"></td>
   </tr></tbody></table>
+-->
 
 
-
-## Week 11
-**Dates:** Jan. 2 & 3
+## Week 12
+**Dates:** Dec. 23 - 27
 <table>
 <thead>
 <tr><td></td>
@@ -194,14 +194,26 @@
   <td id="D5HW"></td>
   </tr></tbody></table>
 
-<hr />
-<h2>
-	Holiday Break Here: Dec. 21 - Jan. 1</h2>
-<hr />
-
-
-
 -->
+
+## Holiday Schedule
+#### Help Schedule
+Instructors are available on the following dates and times but feel free to message outside of these hours with the expectation that you may not get an answer immediately:
+Mon 12/23: Tyler (Office hours: 10:00 am - 12:00 noon)
+Thu 12/26: Tyler (Office hours: 10:00 am - 12:00 noon)
+Fri 12/27: Brock (Office hours: 10:00 am - 12:00 noon; 1:00 - 3:00 pm est)
+Mon 12/30: Tyler (Office hours: 10:00 am - 12:00 noon)
+Tue 12/31: Brock (Office hours: 10:00 am - 12:00 noon)
+
+#### Tasklist
+Students are asked to complete the following six tasks at their own pace over the break.
+**Task 1**: Deploy Heroku, React Blog (w/o database)
+**Task 2**: Find a talk on youtube about something you're interested in to Blog about (summarize & opinion)
+**Task 3**: Make a CodePen, explore the tool, and share w/ experience on blog
+**Task 4**: P5.js, Make/Share w/ experience on blog
+**Task 5**: Find a podcast, share it with the class and write about it on your blog
+**Task 6**: Rubik’s cube complete! (Blog about your experience with both the 2x2 and 3x3 cubes
+
 
 ## Unit 3
 <p>In this unit we'll learn one of the most popular frontend frameworks, <strong>React</strong>. Demand for React skills is high and for good reason. It helps create scalable, interactive frontends and provides a foundation in framework development that you can use. We'll start at the beginning with React at its most basic, build up to using <strong>React + APIs</strong> (external and our own). By the end of this unit you'll have more than one true fullstack apps for your portfolio. Have fun!</p>
