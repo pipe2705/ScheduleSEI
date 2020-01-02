@@ -147,6 +147,9 @@
   <td id="D5HW"></td>
   </tr></tbody></table>
 
+
+-->
+
 ## Week 12
 **Dates:** Dec. 23 - 27
 <table>
@@ -164,35 +167,34 @@
   <td id="D1M1">Holiday 🎉</td>
   <td id="D2M1">Holiday 🎉</td>
   <td id="D3M1">Holiday 🎉</td>
-  <td id="D4M1">Rubiks & Challenge Review</td>
-  <td id="D5M1"></td>
+  <td id="D4M1">Coding Challenge Warmup</td>
+  <td id="D5M1">Intro to Computer Science</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2">Holiday 🎉</td>
   <td id="D2M2">Holiday 🎉</td>
   <td id="D3M2">Holiday 🎉</td>
-  <td id="D4M2"></td>
-  <td id="D5M2"></td>
+  <td id="D4M2">Digital Ocean Intro</td>
+  <td id="D5M2">JSON Web Tokens Intro</td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3">Holiday 🎉</td>
   <td id="D2M3">Holiday 🎉</td>
   <td id="D3M3">Holiday 🎉</td>
-  <td id="D4M3"></td>
-  <td id="D5M3"></td>
+  <td id="D4M3">Deployment with Digital Ocean</td>
+  <td id="D5M3">Auth with JWTs / P3 Add-ons</td>
   </tr>
 
   <tr><td><strong>Labs</strong></td>
-  <td id="D1HW"></td>
-  <td id="D2HW"></td>
-  <td id="D3HW"></td>
-  <td id="D4HW"></td>
-  <td id="D5HW"></td>
+  <td id="D1HW">Holiday 🎉</td>
+  <td id="D2HW">Holiday 🎉</td>
+  <td id="D3HW">Holiday 🎉</td>
+  <td id="D4HW">-</td>
+  <td id="D5HW">P3 Add-ons Weekend</td>
   </tr></tbody></table>
 
--->
 
 ## Holiday Schedule
 #### Help Schedule
