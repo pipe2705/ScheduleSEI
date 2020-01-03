@@ -176,7 +176,7 @@
   <td id="D2M2">Holiday 🎉</td>
   <td id="D3M2">Holiday 🎉</td>
   <td id="D4M2">Digital Ocean Intro</td>
-  <td id="D5M2">JSON Web Tokens Intro</td>
+  <td id="D5M2"><a href="https://git.generalassemb.ly/SEI-SF/Json-Web-Tokens">JSON Web Tokens Intro</a></td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
@@ -184,7 +184,7 @@
   <td id="D2M3">Holiday 🎉</td>
   <td id="D3M3">Holiday 🎉</td>
   <td id="D4M3">Deployment with Digital Ocean</td>
-  <td id="D5M3">Auth with JWTs / P3 Add-ons</td>
+  <td id="D5M3"><a href="https://gist.git.generalassemb.ly/brockwc/df93174b8f08d11ea96cd53f604b727c">Auth with JWTs</a> / P3 Add-ons</td>
   </tr>
 
   <tr><td><strong>Labs</strong></td>
