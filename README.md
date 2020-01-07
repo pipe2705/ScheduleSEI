@@ -101,6 +101,7 @@
   </tr></tbody></table>
 
 
+-->
 
 ## Week 12
 **Dates:** Jan. 6 - 10
@@ -116,41 +117,40 @@
 </thead>
 <tbody>
 <tr><td><strong>Morning Exercise</strong></td>
-  <td id="D1M1"></td>
-  <td id="D2M1"></td>
+  <td id="D1M1">JWT Review / Deployment Review</td>
+  <td id="D2M1">Review</td>
   <td id="D3M1">Outcomes</td>
-  <td id="D4M1"></td>
-  <td id="D5M1"></td>
+  <td id="D4M1">Review</td>
+  <td id="D5M1">Review</td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
-  <td id="D1M2"></td>
-  <td id="D2M2"></td>
-  <td id="D3M2"></td>
-  <td id="D4M2"></td>
-  <td id="D5M2"></td>
+  <td id="D1M2">Intro to Python</td>
+  <td id="D2M2">Python OOP & Modules</td>
+  <td id="D3M2">Advanced Functions</td>
+  <td id="D4M2">PIP, Flask, and APIs</td>
+  <td id="D5M2">Flask & MongoDB</td>
   </tr>
 
   <tr><td><strong>Module 2</strong></td>
-  <td id="D1M3"></td>
-  <td id="D2M3"></td>
-  <td id="D3M3"></td>
-  <td id="D4M3"></td>
-  <td id="D5M3"></td>
+  <td id="D1M3">Intro to Python / CS: Big O Notation</td>
+  <td id="D2M3">Modules / CS: Bubble & Insertion Sort</td>
+  <td id="D3M3">Decorators / Data Structures</td>
+  <td id="D4M3">PIP, Flask, and APIs</td>
+  <td id="D5M3">Flask & MongoDB</td>
   </tr>
 
   <tr><td><strong>Labs</strong></td>
-  <td id="D1HW"></td>
-  <td id="D2HW"></td>
-  <td id="D3HW"></td>
-  <td id="D4HW"></td>
-  <td id="D5HW"></td>
+	<td id="D1HW"></td>
+  	<td id="D2HW"><a href="https://git.generalassemb.ly/SEI-SF/python-koans">Python Koans</a></td>
+  	<td id="D3HW"></td>
+  	<td id="D4HW"></td>
+  	<td id="D5HW"></td>
   </tr></tbody></table>
 
 
--->
 
-## Week 12
+## Week 11
 **Dates:** Dec. 23 - 27
 <table>
 <thead>
