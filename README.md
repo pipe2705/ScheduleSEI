@@ -100,8 +100,10 @@
   <td id="D5L">Final Project</td>
   </tr></tbody></table>
 
-
 -->
+
+# Unit 4 - 🐍 🐍 🐍 🐍
+Welcome to the final unit of your SEI experience! We'll be diving into the wonderful world of Python and preparing you all for your final projects. Specifically this unit will take a deeper dive into some fundamental Computer Science concepts, the Python programming language, and the Flask framework (written in Python). Have fun!
 
 ## Week 12
 **Dates:** Jan. 6 - 10
@@ -151,7 +153,7 @@
 
 
 ## Week 11
-**Dates:** Dec. 23 - 27
+**Dates:** Dec. 30 - Jan. 3
 <table>
 <thead>
 <tr><td></td>
@@ -194,6 +196,25 @@
   <td id="D4HW">-</td>
   <td id="D5HW">P3 Add-ons Weekend</td>
   </tr></tbody></table>
+
+### Unit 4 - Deliverables
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<table>
+  <thead>
+    <tr>
+      <td><b>Date Assigned</b></td>
+      <td><b>Deliverable</b></td>
+      <td><b>Final Due Date</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td></td>
+	    <td></td>
+	    <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Holiday Schedule
