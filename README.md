@@ -144,7 +144,7 @@ Welcome to the final unit of your SEI experience! We'll be diving into the wonde
 
   <tr><td><strong>Labs</strong></td>
 	<td id="D1HW"></td>
-  	<td id="D2HW"><a href="https://git.generalassemb.ly/SEI-SF/python-koans">Python Koans</a></td>
+  	<td id="D2HW"><!-- <a href="https://git.generalassemb.ly/SEI-SF/python-koans">Python Koans</a> --></td>
   	<td id="D3HW"></td>
   	<td id="D4HW"></td>
   	<td id="D5HW"></td>
