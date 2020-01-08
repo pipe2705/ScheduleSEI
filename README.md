@@ -137,7 +137,7 @@ Welcome to the final unit of your SEI experience! We'll be diving into the wonde
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3">Big O Notation</td>
   <td id="D2M3">Bubble & Insertion Sort</td>
-  <td id="D3M3">Decorators / Data Structures</td>
+  <td id="D3M3"><a href="https://git.generalassemb.ly/SEI-SF/python-koans">Python Koans</a></td>
   <td id="D4M3">PIP, Flask, and APIs</td>
   <td id="D5M3">Flask & MongoDB</td>
   </tr>
