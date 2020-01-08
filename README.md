@@ -170,7 +170,7 @@ Welcome to the final unit of your SEI experience! We'll be diving into the wonde
   <td id="D2M1">Holiday 🎉</td>
   <td id="D3M1">Holiday 🎉</td>
   <td id="D4M1">Coding Challenge Warmup</td>
-  <td id="D5M1">Intro to Computer Science</td>
+	<td id="D5M1"><a href="https://teachyourselfcs.com/">Intro to Computer Science</a></td>
   </tr>
 
   <tr><td><strong>Module 1</strong></td>
