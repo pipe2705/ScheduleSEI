@@ -129,7 +129,7 @@ Welcome to the final unit of your SEI experience! We'll be diving into the wonde
   <tr><td><strong>Module 1</strong></td>
   <td id="D1M2">Intro to Python</td>
   <td id="D2M2"><a href="https://git.generalassemb.ly/SEI-SF/python-functions">Functions</a></td>
-  <td id="D3M2">Objects, Classes and Modules</td>
+  <td id="D3M2">Advanced Functions</td>
   <td id="D4M2">PIP, Flask, and APIs</td>
   <td id="D5M2">Flask & MongoDB</td>
   </tr>
@@ -137,15 +137,15 @@ Welcome to the final unit of your SEI experience! We'll be diving into the wonde
   <tr><td><strong>Module 2</strong></td>
   <td id="D1M3">Big O Notation</td>
   <td id="D2M3">Bubble & Insertion Sort</td>
-  <td id="D3M3">Data Structures</td>
+  <td id="D3M3">Decorators / Data Structures</td>
   <td id="D4M3">PIP, Flask, and APIs</td>
   <td id="D5M3">Flask & MongoDB</td>
   </tr>
 
   <tr><td><strong>Labs</strong></td>
 	<td id="D1HW"></td>
-  	<td id="D2HW"><!-- <a href="https://git.generalassemb.ly/SEI-SF/python-koans">Python Koans</a> --></td>
-  	<td id="D3HW"></td>
+  	<td id="D2HW"></td>
+  	<td id="D3HW"><a href="https://git.generalassemb.ly/SEI-SF/python-koans">Python Koans</a></td>
   	<td id="D4HW"></td>
   	<td id="D5HW"></td>
   </tr></tbody></table>
@@ -209,9 +209,9 @@ Welcome to the final unit of your SEI experience! We'll be diving into the wonde
   </thead>
   <tbody>
     <tr>
-	    <td></td>
-	    <td></td>
-	    <td></td>
+	    <td>Jan. 8</td>
+	    <td><a href="https://git.generalassemb.ly/SEI-SF/python-koans">Python Koans</a></td>
+	    <td>Jan. 15</td>
     </tr>
   </tbody>
 </table>
